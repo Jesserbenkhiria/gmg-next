@@ -1,0 +1,122 @@
+{
+  "welcome": "Bienvenue",
+  "language": "Langue",
+  "menu": "Menu",
+  "contact": "Contactez-nous",
+  "Accueil": "Home",
+  "About": "About",
+  "services": "Services",
+  "nos bureaux": "Our Offices",
+  "Contact": "Contact",
+  "hero_title": "Construire un produit numérique, une marque et une expérience",
+  "hero_text": "Chez Collax, nous nous spécialisons dans la conception, la construction, l'expédition et la mise à l'échelle de produits beaux et utilisables avec une efficacité fulgurante",
+  "btn_text": "Comment ça marche",
+  "video_title": "Derrière les coulisses",
+  "social_links": {
+    "facebook": "Facebook",
+    "youtube": "Youtube",
+    "twitter": "Twitter"
+  },
+  "brand_title": "Plus de 35k+ entreprises logicielles en croissance avec Collax",
+  "our_services": "Nos services",
+  "managing_business": "Gérer votre entreprise avec notre",
+  "best_service": "meilleur service",
+  "services": {
+    "recruitment": {
+      "title": "Recrutement de Personnel de Santé",
+      "description": "Ouvrez la porte à une carrière internationale dans le secteur de la santé. Nous vous accompagnons dans le processus de recrutement pour des postes en Allemagne et en Arabie Saoudite, gérant le placement, les visas et l'intégration culturelle."
+    },
+    "students_placement": {
+      "title": "Placement des Étudiants",
+      "description": "Étudiez dans les meilleures universités d'Allemagne et de France. Nous vous accompagnons dans les admissions, de la préparation des dossiers à votre installation dans votre nouveau pays."
+    },
+    "professional_training": {
+      "title": "Formations Professionnelles",
+      "description": "L'Allemagne est réputée pour son excellence en formation professionnelle. Nous facilitons votre entrée dans des programmes de haute qualité en technologie, ingénierie et santé."
+    },
+    "language_school": {
+      "title": "École de Langues",
+      "description": "Apprenez de nouvelles langues et débloquez de nouvelles opportunités. Notre école de langue allemande propose des cours pour tous les niveaux, du débutant à l'avancé."
+    }
+  },
+  "schedule_free_session": "Planifiez une session gratuite",
+  "why_choose_us": "Pourquoi nous choisir",
+  "feature_title": "Spécialistes dans l'accompagnement des clients face aux",
+  "feature_highlight": "défis financiers",
+  "features-home": {
+    "fast_process": "Processus de travail rapide",
+    "dedicated_team": "Équipe dédiée",
+    "support": "Support 24/7",
+    "description": "Chez Collax, nous nous spécialisons dans la conception, la construction, l'expédition et la mise à l'échelle de produits beaux et fonctionnels."
+  },
+  "testimonial": {
+    "subtitle": "Témoignages",
+    "title": "Découvrez ce que",
+    "highlight_text": "nos clients disent",
+    "btn_text": "Plus de témoignages",
+    "data": [
+      {
+        "desc": "Wow. Quelle expérience formidable avec ce rédacteur. Muhammad Noman est un rédacteur très talentueux. Hier, j'ai reçu son premier e-mail qui était incroyable.",
+        "name": "Leslie Alexander",
+        "title": "P. Designer de (Amazon)"
+      },
+      {
+        "desc": "Conception UI/UX excellente. Elle a littéralement transformé mon application en une véritable œuvre d'art. Elle a des compétences étonnantes en conception UI.",
+        "name": "Guy Hawkins",
+        "title": "Designer UX de (GoDaddy)"
+      },
+      {
+        "desc": "Absolument incroyable. Nous ne pouvons pas croire à quel point c'était incroyable. Yetta Thomas est une véritable professionnelle avec une grande expérience.",
+        "name": "Kristin Watson",
+        "title": "PDG de (Zlitemes)"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Solutions : toutes vos questions répondues",
+    "question_one": {
+      "title": "Comment puis-je postuler pour un emploi dans le secteur de la santé ?",
+      "description": "Nous vous accompagnons dans tout le processus de candidature, y compris la préparation des documents, l'entretien et la gestion du visa. Vous pouvez soumettre votre CV sur notre site, et notre équipe vous contactera pour la suite des étapes."
+    },
+    "question_two": {
+      "title": "Comment puis-je m'inscrire dans une université en Allemagne ou en France ?",
+      "description": "Nous vous assistons dans la recherche des meilleures universités, la soumission de votre candidature et le suivi de vos admissions. Nos conseillers sont là pour vous guider à chaque étape."
+    },
+    "question_three": {
+      "title": "Quels sont les critères pour accéder aux formations professionnelles en Allemagne ?",
+      "description": "Les formations professionnelles en Allemagne exigent généralement une connaissance de base de la langue allemande et un diplôme de fin d'études secondaires. Nous offrons également des cours de langue pour vous aider à vous préparer."
+    },
+    "question_four": {
+      "title": "Proposez-vous des cours de langue pour apprendre l'allemand ?",
+      "description": "Oui, nous offrons des cours de langue pour tous les niveaux. Que vous soyez débutant ou que vous souhaitiez perfectionner votre allemand, nos enseignants qualifiés sont là pour vous aider à réussir."
+    },
+    "question_five": {
+      "title": "Comment puis-je obtenir de l'aide pour ma candidature ?",
+      "description": "Notre équipe est disponible pour répondre à toutes vos questions par email ou téléphone. Vous pouvez également consulter la section de contact sur notre site pour plus d'informations."
+    }
+  },
+  "features": {
+    "title": "Créer des expériences de classe mondiale",
+    "sm_desc_1": "Chez Grand Master Global, nous connectons les talents avec des opportunités uniques, transformant les vies des étudiants et des professionnels.",
+    "sm_desc_2": "Nos solutions ont permis de nouvelles façons d'apprendre, de travailler, et de prospérer.",
+    "project_kickoff": "Lancement de Projet",
+    "project_desc": "Des étapes initiales structurées pour atteindre vos objectifs.",
+    "ideation": "Idéation",
+    "ideation_desc": "Transformer vos idées en actions concrètes.",
+    "design_process": "Processus de Design",
+    "design_desc": "Des designs centrés sur l'utilisateur, adaptés à vos besoins.",
+    "development": "Développement",
+    "dev_desc": "Créer des solutions technologiques qui font la différence."
+  },
+  "about-page": "À Propos de Grand Master Global",
+  "services-page": "Nos Services",
+  "about": {
+    "title": "À Propos de Grand Master Global",
+    "video_title": "Voir la Vidéo Démo",
+    "right_text_1": "Chez Grand Master Global, nous nous engageons à connecter les talents du monde entier avec des opportunités d'éducation et d'emploi. Notre mission est de faciliter le parcours des étudiants et des professionnels vers un avenir prometteur.",
+    "right_text_2": "Nous proposons une expérience d'apprentissage enrichissante et accessible, soutenue par des mentors expérimentés.",
+    "client_name": "Amine Rahmani",
+    "client_title": "Professionnel de Santé, Allemagne",
+    "desc": "Grâce à Grand Master Global, j'ai pu trouver un poste dans un hôpital prestigieux en Allemagne. Leur support pendant tout le processus a été exceptionnel, du recrutement à l'intégration culturelle."
+  }
+}

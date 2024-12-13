@@ -1,0 +1,98 @@
+{
+  "welcome": "Welcome",
+  "language": "Language",
+  "menu": "Menu",
+  "contact": "Contact Us",
+  "Accueil": "Home",
+  "About": "About",
+  "services": "Services",
+  "nos bureaux": "Our Offices",
+  "Contact": "Contact",
+  "hero_title": "Building a Digital Product, Brand, and Experience",
+  "hero_text": "At Collax, we specialize in designing, building, shipping, and scaling beautiful, usable products with blazing-fast efficiency.",
+  "btn_text": "How It Works",
+  "video_title": "Behind the Scenes",
+  "social_links": {
+    "facebook": "Facebook",
+    "youtube": "YouTube",
+    "twitter": "Twitter"
+  },
+  "brand_title": "Over 35k+ software businesses growing with Collax",
+  "our_services": "Our Services",
+  "managing_business": "Managing your business with our",
+  "best_service": "best service",
+  "services": {
+    "recruitment": {
+      "title": "Healthcare Recruitment",
+      "description": "Open the door to an international career in healthcare. We assist in the recruitment process for positions in Germany and Saudi Arabia, managing placement, visas, and cultural integration."
+    },
+    "students_placement": {
+      "title": "Student Placement",
+      "description": "Study at the top universities in Germany and France. We assist with admissions, from application preparation to settling in your new country."
+    },
+    "professional_training": {
+      "title": "Professional Training",
+      "description": "Germany is renowned for its excellence in professional training. We facilitate your entry into high-quality programs in technology, engineering, and healthcare."
+    },
+    "language_school": {
+      "title": "Language School",
+      "description": "Learn new languages and unlock new opportunities. Our German language school offers courses for all levels, from beginner to advanced."
+    }
+  },
+  "schedule_free_session": "Schedule a Free Session",
+  "why_choose_us": "Why Choose Us",
+  "feature_title": "Specialists in guiding clients through",
+  "feature_highlight": "financial challenges",
+  "features": {
+    "fast_process": "Fast Working Process",
+    "dedicated_team": "Dedicated Team",
+    "support": "24/7 Support",
+    "description": "We excel in offering efficient, reliable, and high-quality services to support our clients."
+  },
+  "testimonial": {
+    "subtitle": "Testimonials",
+    "title": "Discover what",
+    "highlight_text": "our clients say",
+    "btn_text": "More Testimonials",
+    "data": [
+      {
+        "desc": "Wow. What a great experience with this writer. Muhammad Noman is a very talented writer. Yesterday, I received his first email, and it was incredible.",
+        "name": "Leslie Alexander",
+        "title": "P. Designer at (Amazon)"
+      },
+      {
+        "desc": "Excellent UI/UX design. She literally transformed my app into a true work of art. She has amazing UI design skills.",
+        "name": "Guy Hawkins",
+        "title": "UX Designer at (GoDaddy)"
+      },
+      {
+        "desc": "Absolutely incredible. We can't believe how amazing it was. Yetta Thomas is a true professional with great experience.",
+        "name": "Kristin Watson",
+        "title": "CEO of (Zlitemes)"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Solutions: All Your Questions Answered",
+    "question_one": {
+      "title": "How can I apply for a job in the healthcare sector?",
+      "description": "We assist you throughout the entire application process, including document preparation, interviews, and visa management. You can submit your CV on our site, and our team will contact you for the next steps."
+    },
+    "question_two": {
+      "title": "How can I enroll in a university in Germany or France?",
+      "description": "We assist you in finding the best universities, submitting your application, and following up on your admissions. Our advisors are here to guide you every step of the way."
+    },
+    "question_three": {
+      "title": "What are the requirements for accessing professional training in Germany?",
+      "description": "Professional training in Germany typically requires a basic knowledge of the German language and a high school diploma. We also offer language courses to help you prepare."
+    },
+    "question_four": {
+      "title": "Do you offer language courses to learn German?",
+      "description": "Yes, we offer language courses for all levels. Whether you are a beginner or want to perfect your German, our qualified teachers are here to help you succeed."
+    },
+    "question_five": {
+      "title": "How can I get help with my application?",
+      "description": "Our team is available to answer all your questions via email or phone. You can also check the contact section on our website for more information."
+    }
+  }
+}
