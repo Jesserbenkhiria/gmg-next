@@ -1,110 +1,107 @@
-import React, { useEffect, useState } from 'react';
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation } from "swiper";
-import PaginationArea from '../../ui/pagination';
-import useModal from '../../hooks/use-modal';
-import VideoModal from '../common/modals/modal-video';
-import Link from 'next/link';
+import React from "react";
+import { useTranslation } from "next-i18next";
 
-const BlogItems = ({ itemsPerPage, items }) => {
-  const [sliderLoop, setSliderLoop] = React.useState(false);
-  React.useEffect(() => setSliderLoop(true), []);
-  const { isVideoOpen, setIsVideoOpen } = useModal();
-  // 
-  const [currentItems, setCurrentItems] = useState(null);
-  const [pageCount, setPageCount] = useState(0);
-  const [itemOffset, setItemOffset] = useState(0);
+const BlogItems = () => {
+  const { t } = useTranslation("common"); // Use the "common" namespace
 
-  useEffect(() => {
-    const endOffset = itemOffset + itemsPerPage;
-    setCurrentItems(items?.slice(itemOffset, endOffset));
-    setPageCount(Math.ceil(items.length / itemsPerPage));
-  }, [itemOffset, itemsPerPage, items]);
-
-  const handlePageClick = (event) => {
-    const newOffset = (event.selected * itemsPerPage) % items.length;
-    setItemOffset(newOffset);
-  };
+  const bureauData = [
+    {
+      id: 1,
+      section: t("tunisia_office.section"),
+      heading: t("tunisia_office.heading"),
+      description: t("tunisia_office.description"),
+      items: [
+        {
+          title: t("tunisia_office.card_title"),
+          location: t("tunisia_office.card_location"),
+          hours: t("tunisia_office.card_hours"),
+          img: "https://horizontunisia.org/wp-content/uploads/2024/06/Is-It-Worth-Visiting-Tunisia.jpg",
+        },
+        {
+          title: t("tunisia_office.card_title"),
+          location: t("tunisia_office.card_location"),
+          hours: t("tunisia_office.card_hours"),
+          img: "https://horizontunisia.org/wp-content/uploads/2024/06/Is-It-Worth-Visiting-Tunisia.jpg",
+        },
+        {
+          title: t("tunisia_office.card_title"),
+          location: t("tunisia_office.card_location"),
+          hours: t("tunisia_office.card_hours"),
+          img: "https://horizontunisia.org/wp-content/uploads/2024/06/Is-It-Worth-Visiting-Tunisia.jpg",
+        },
+        {
+          title: t("tunisia_office.card_title"),
+          location: t("tunisia_office.card_location"),
+          hours: t("tunisia_office.card_hours"),
+          img: "https://horizontunisia.org/wp-content/uploads/2024/06/Is-It-Worth-Visiting-Tunisia.jpg",
+        },
+      ],
+    },
+    {
+      id: 2,
+      section: t("international_offices.section"),
+      heading: t("international_offices.heading"),
+      description: t("international_offices.description"),
+      items: [
+        {
+          title: t("international_offices.colombia.card_title"),
+          location: t("international_offices.colombia.card_location"),
+          hours: t("international_offices.colombia.card_hours"),
+          img: "https://www.colombia-travels.com/wp-content/uploads/adobestock-266299444-1.jpeg",
+        },
+        {
+          title: t("international_offices.germany.card_title"),
+          location: t("international_offices.germany.card_location"),
+          hours: t("international_offices.germany.card_hours"),
+          img: "https://static.euronews.com/articles/stories/08/46/46/66/1200x675_cmsv2_cb0feef8-9a1d-5e77-931f-472ec250511f-8464666.jpg",
+        },
+        {
+          title: t("international_offices.saudi_arabia.card_title"),
+          location: t("international_offices.saudi_arabia.card_location"),
+          hours: t("international_offices.saudi_arabia.card_hours"),
+          img: "https://image.cnbcfm.com/api/v1/image/107364983-1706275482318-gettyimages-1420727921-saudiarabia0011299.jpeg?v=1724336615&w=1600&h=900",
+        },
+      ],
+    },
+  ];
 
   return (
-    <>
-      {currentItems && currentItems.map((blog) => {
-        const { id, blog_big, video, slider, img, title, views, short_desc, author, comment, date } = blog;
-        return <article key={id} className={`postbox__item format-image mb-50 transition-3 ${slider ? 'fix' : ''}`}>
-          {!slider && !video && <div className="postbox__thumb w-img">
-            <Link href={`/blog-details/${id}`}>
-              <a>
-                <img src={img} alt="" />
-              </a>
-            </Link>
-          </div>}
-          {
-            slider && <Swiper
-              loop={sliderLoop}
-              modules={[Navigation]}
-              className="swiper-container blog-post-slider-active"
-              slidesPerView={1}
-              spaceBetween={0}
-              navigation={{
-                nextEl: '.blog-nav-next',
-                prevEl: '.blog-nav-prev',
-              }}
-            >
-              {img.map((slider_img, i) => (
-                <SwiperSlide key={i}>
-                  <img src={slider_img} alt="" />
-                </SwiperSlide>
+    <div className="bureau-sections">
+      {bureauData.map((section) => (
+        <div key={section.id} className="bureau-section mb-5">
+          <h2 className="section-title text-center tp-title-sm">
+            {section.heading}
+          </h2>
+          <p className="tp-brand-title-four text-center pb-10">
+            {section.description}
+          </p>
+          <div className="container">
+            <div className="row">
+              {section.items.map((bureau, index) => (
+                <div key={index} className="col-lg-4 col-md-6 mb-4">
+                  <div className="card">
+                    <img
+                      src={bureau.img}
+                      alt={bureau.title}
+                      className="card-img-top"
+                    />
+                    <div className="card-body">
+                      <h5 className="card-title">{bureau.title}</h5>
+                      <p className="card-text">
+                        <strong>{t("location")}:</strong> {bureau.location}
+                      </p>
+                      <p className="card-text">
+                        <strong>{t("hours")}:</strong> {bureau.hours}
+                      </p>
+                    </div>
+                  </div>
+                </div>
               ))}
-              <div className="blog-post-slider-nav">
-                <div className="blog-nav-prev nav-button"><i className="fal fa-angle-left"></i></div>
-                <div className="blog-nav-next nav-button"><i className="fal fa-angle-right"></i></div>
-              </div>
-            </Swiper>
-          }
-          {video && <div className="postbox__thumb postbox__video w-img p-relative">
-            <Link href={`/blog-details/${id}`}>
-              <a>
-                <img src={img} alt="" />
-              </a>
-            </Link>
-            <button onClick={() => setIsVideoOpen(true)} className="play-btn pulse-btn popup-video">
-              <i className="fas fa-play"></i>
-            </button>
-          </div>}
-          <div className="postbox__content">
-            <div className="postbox__meta">
-              <span><a href="#"><i className="fal fa-user-circle"></i> {author} </a></span>
-              <span><a href="#"><i className="fal fa-clock"></i>{date}</a></span>
-              <span><a href="#"><i className="fal fa-comment-alt-lines"></i>({comment}) Coments</a></span>
-              <span><a href="#"><i className="fal fa-eye"></i> {views} views</a></span>
-            </div>
-            <h3 className="postbox__title">
-              <Link href={`/blog-details/${id}`}>
-                <a>{title}</a>
-              </Link>
-            </h3>
-            <div className="postbox__text">
-              <p>{short_desc}</p>
-            </div>
-            <div className="post__button">
-              <Link href={`/blog-details/${id}`}>
-                <a className="tp-btn-yellow"> READ MORE</a>
-              </Link>
             </div>
           </div>
-        </article>
-      })}
-
-      {/* pagination start*/}
-      <div className='basic-pagination'>
-        <PaginationArea handlePageClick={handlePageClick} pageCount={pageCount} />
-      </div>
-      {/* pagination end*/}
-
-      {/* video modal start */}
-      <VideoModal isVideoOpen={isVideoOpen} setIsVideoOpen={setIsVideoOpen} videoId={'-WRZI63emjs'} />
-      {/* video modal end */}
-    </>
+        </div>
+      ))}
+    </div>
   );
 };
 

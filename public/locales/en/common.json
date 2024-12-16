@@ -1,98 +1,186 @@
 {
-  "welcome": "Welcome",
+  "welcome": "Welcome to GMG",
   "language": "Language",
   "menu": "Menu",
   "contact": "Contact Us",
   "Accueil": "Home",
   "About": "About",
-  "services": "Services",
+  "servicese": "Services",
   "nos bureaux": "Our Offices",
   "Contact": "Contact",
-  "hero_title": "Building a Digital Product, Brand, and Experience",
-  "hero_text": "At Collax, we specialize in designing, building, shipping, and scaling beautiful, usable products with blazing-fast efficiency.",
-  "btn_text": "How It Works",
-  "video_title": "Behind the Scenes",
+  "hero_title": "Shaping Educational and Professional Opportunities",
+  "hero_text": "At GMG, we guide international talent towards enriching learning and working experiences in Germany and beyond.",
+  "btn_text": "Explore Our Services",
+  "video_title": "Discover GMG",
   "social_links": {
     "facebook": "Facebook",
-    "youtube": "YouTube",
+    "youtube": "Youtube",
     "twitter": "Twitter"
   },
-  "brand_title": "Over 35k+ software businesses growing with Collax",
+  "brand_title": "Over 10,000 talents successfully guided",
   "our_services": "Our Services",
-  "managing_business": "Managing your business with our",
-  "best_service": "best service",
+  "managing_business": "Transform your ambitions with our",
+  "best_service": "proven expertise",
   "services": {
     "recruitment": {
       "title": "Healthcare Recruitment",
-      "description": "Open the door to an international career in healthcare. We assist in the recruitment process for positions in Germany and Saudi Arabia, managing placement, visas, and cultural integration."
+      "description": "We connect qualified healthcare professionals from Tunisia with opportunities in Germany. From visa management to integration, we handle every step to ensure a smooth transition."
     },
     "students_placement": {
-      "title": "Student Placement",
-      "description": "Study at the top universities in Germany and France. We assist with admissions, from application preparation to settling in your new country."
+      "title": "Student Support",
+      "description": "Study at renowned universities in Germany with our personalized support, covering program selection, administrative processes, and on-site integration."
     },
     "professional_training": {
       "title": "Professional Training",
-      "description": "Germany is renowned for its excellence in professional training. We facilitate your entry into high-quality programs in technology, engineering, and healthcare."
+      "description": "Participate in specialized and professional training in Germany in fields like healthcare, engineering, and technology, and stand out in the job market."
     },
     "language_school": {
       "title": "Language School",
-      "description": "Learn new languages and unlock new opportunities. Our German language school offers courses for all levels, from beginner to advanced."
+      "description": "Master German with courses tailored to your needs, whether you're a student or a professional. Our intensive B1 and B2 courses ensure optimal preparation."
     }
   },
-  "schedule_free_session": "Schedule a Free Session",
-  "why_choose_us": "Why Choose Us",
-  "feature_title": "Specialists in guiding clients through",
-  "feature_highlight": "financial challenges",
-  "features": {
-    "fast_process": "Fast Working Process",
-    "dedicated_team": "Dedicated Team",
-    "support": "24/7 Support",
-    "description": "We excel in offering efficient, reliable, and high-quality services to support our clients."
+  "schedule_free_session": "Schedule a Free Consultation",
+  "why_choose_us": "Why Choose GMG",
+  "feature_title": "Experts in facilitating",
+  "feature_highlight": "international education and careers",
+  "features-home": {
+    "fast_process": "Simplified Process",
+    "dedicated_team": "Experienced Team",
+    "support": "Continuous Support",
+    "description": "GMG guides you every step of the way, ensuring fast, reliable, and personalized service."
   },
   "testimonial": {
     "subtitle": "Testimonials",
-    "title": "Discover what",
+    "title": "See what",
     "highlight_text": "our clients say",
-    "btn_text": "More Testimonials",
+    "btn_text": "Read More Testimonials",
     "data": [
       {
-        "desc": "Wow. What a great experience with this writer. Muhammad Noman is a very talented writer. Yesterday, I received his first email, and it was incredible.",
-        "name": "Leslie Alexander",
-        "title": "P. Designer at (Amazon)"
+        "desc": "Thanks to GMG, I was able to pursue my studies at a prestigious university in Germany. Their support was exceptional.",
+        "name": "Hiba Ben Youssef",
+        "title": "Student, Berlin"
       },
       {
-        "desc": "Excellent UI/UX design. She literally transformed my app into a true work of art. She has amazing UI design skills.",
-        "name": "Guy Hawkins",
-        "title": "UX Designer at (GoDaddy)"
+        "desc": "The recruitment process with GMG was smooth and efficient. I am now working as a nurse in Germany.",
+        "name": "Ahmed Khemiri",
+        "title": "Nurse, Frankfurt"
       },
       {
-        "desc": "Absolutely incredible. We can't believe how amazing it was. Yetta Thomas is a true professional with great experience.",
-        "name": "Kristin Watson",
-        "title": "CEO of (Zlitemes)"
+        "desc": "GMG has been a reliable partner in my transition to an international career. Their constant support made all the difference.",
+        "name": "Noura Rahmani",
+        "title": "Physiotherapist, Munich"
       }
     ]
   },
   "faq": {
-    "title": "Solutions: All Your Questions Answered",
+    "title": "Your Questions, Our Answers",
     "question_one": {
-      "title": "How can I apply for a job in the healthcare sector?",
-      "description": "We assist you throughout the entire application process, including document preparation, interviews, and visa management. You can submit your CV on our site, and our team will contact you for the next steps."
+      "title": "How can I apply for a healthcare job?",
+      "description": "We help you prepare your documents, apply, and manage administrative processes, including visas. Contact us to get started."
     },
     "question_two": {
-      "title": "How can I enroll in a university in Germany or France?",
-      "description": "We assist you in finding the best universities, submitting your application, and following up on your admissions. Our advisors are here to guide you every step of the way."
+      "title": "How do I enroll in a university in Germany?",
+      "description": "We guide you in finding universities, submitting applications, and following up until admission. Our advisors are here to assist you."
     },
     "question_three": {
-      "title": "What are the requirements for accessing professional training in Germany?",
-      "description": "Professional training in Germany typically requires a basic knowledge of the German language and a high school diploma. We also offer language courses to help you prepare."
+      "title": "What are the requirements for professional training in Germany?",
+      "description": "You generally need a recognized diploma and a B1 or B2 level in German. We offer language courses to help you meet these criteria."
     },
     "question_four": {
-      "title": "Do you offer language courses to learn German?",
-      "description": "Yes, we offer language courses for all levels. Whether you are a beginner or want to perfect your German, our qualified teachers are here to help you succeed."
+      "title": "Do you offer German language courses?",
+      "description": "Yes, we offer courses for all levels, tailored to the needs of students and professionals."
     },
     "question_five": {
       "title": "How can I get help with my application?",
-      "description": "Our team is available to answer all your questions via email or phone. You can also check the contact section on our website for more information."
+      "description": "Our team is available to answer your questions. Contact us via email or our online form."
     }
+  },
+  "features": {
+    "title": "Achieve Your Educational and Professional Dreams",
+    "sm_desc_1": "At GMG, we open doors to international opportunities for students and professionals.",
+    "sm_desc_2": "Our services simplify the process, allowing you to focus on success.",
+    "project_kickoff": "Project Kickoff",
+    "project_desc": "A clear strategy to achieve your goals.",
+    "ideation": "Design",
+    "ideation_desc": "Turning your ideas into concrete results.",
+    "design_process": "Tailored Approach",
+    "design_desc": "Assistance customized to your specific needs.",
+    "development": "Integration",
+    "dev_desc": "Comprehensive support for your success."
+  },
+  "about-page": "About GMG",
+  "services-page": "Our Services",
+  "about": {
+    "title": "About GMG",
+    "video_title": "Discover Our Mission",
+    "right_text_1": "GMG is dedicated to connecting international talent with education and career opportunities. Our goal is to make transitions simple and accessible.",
+    "right_text_2": "We provide personalized support at every step, ensuring successful and sustainable integration.",
+    "client_name": "Amine Rahmani",
+    "client_title": "Healthcare Professional, Germany",
+    "desc": "With GMG, I successfully transitioned to Germany. Their team handled every step, making the experience stress-free."
+  },
+  "contact-page": {
+    "mail_address": "Email Address",
+    "phone_number": "Phone Number",
+    "address_line": "Address",
+    "address": "Tunis, Tunisia",
+    "lets_talk": "Let’s Discuss Your Project",
+    "contact_image_alt": "Contact Us"
+  },
+  "offices": {
+    "title": "Our Offices"
+  },
+  "tunisia_office": {
+    "section": "Our Office in Tunisia",
+    "heading": "GMG Office Tunisia",
+    "description": "Our office in Tunis is your starting point for a career or studies abroad.",
+    "card_title": "Office in Tunisia",
+    "card_location": "Tunis, Tunisia",
+    "card_hours": "Open Monday to Friday, 9:00 AM - 6:00 PM"
+  },
+  "international_offices": {
+    "section": "Our International Offices",
+    "heading": "International Offices",
+    "description": "With offices in Germany, Saudi Arabia, and Colombia, we offer global support to help you achieve your goals.",
+    "colombia": {
+      "card_title": "Office in Colombia",
+      "card_location": "Bogotá, Colombia",
+      "card_hours": "Open Monday to Friday, 8:30 AM - 5:30 PM"
+    },
+    "germany": {
+      "card_title": "Office in Germany",
+      "card_location": "Berlin, Germany",
+      "card_hours": "Open Monday to Friday, 9:00 AM - 6:00 PM"
+    },
+    "saudi_arabia": {
+      "card_title": "Office in Saudi Arabia",
+      "card_location": "Riyadh, Saudi Arabia",
+      "card_hours": "Open Sunday to Thursday, 8:00 AM - 4:00 PM"
+    }
+  },
+  "location": "Location",
+  "hours": "Hours",
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "offices": "Our Offices",
+    "contact": "Contact"
   }
+  ,
+  "footer": {
+  "useful_links": "Useful Links",
+  "community": "Community",
+  "copy_right": "© 2024 Your Company. All rights reserved.",
+  "conditions": ["Terms of Use", "Privacy Policy", "Help Center"],
+  "widget_lists": {
+    "useful_links": ["Contact Us", "How it Works", "Create", "Explore", "Terms & Services"],
+    "community": ["Help Center", "Partners", "Suggestions", "Blog", "Newsletters"]
+  },
+  "subscribe_title": "Subscribe to Newsletter",
+  "subscribe_text": "Sign up for our newsletter to receive updates about our services.",
+  "widget_desc": "A new way to make payments easy, reliable, and 100% secure.",
+  "about_title": "About Us"
+}
+
 }

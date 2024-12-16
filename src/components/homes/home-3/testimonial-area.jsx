@@ -99,7 +99,7 @@ const TestimonialArea = () => {
               },
             }}
           >
-            {testimonial_data.map((item) => {
+            {testimonial_data?.map((item) => {
               const { brand_img, desc, id, img, name, ratings, title } = item;
               return <SwiperSlide key={id} className="testi-slider-opacity">
                   <div className="tp-testimonial-box">

@@ -1,122 +1,184 @@
 {
-  "welcome": "Bienvenue",
+  "welcome": "Bienvenue chez GMG",
   "language": "Langue",
   "menu": "Menu",
   "contact": "Contactez-nous",
-  "Accueil": "Home",
-  "About": "About",
-  "services": "Services",
-  "nos bureaux": "Our Offices",
+  "Accueil": "Accueil",
+  "About": "À Propos",
+  "servicese": "Services",
+  "nos bureaux": "Nos Bureaux",
   "Contact": "Contact",
-  "hero_title": "Construire un produit numérique, une marque et une expérience",
-  "hero_text": "Chez Collax, nous nous spécialisons dans la conception, la construction, l'expédition et la mise à l'échelle de produits beaux et utilisables avec une efficacité fulgurante",
-  "btn_text": "Comment ça marche",
-  "video_title": "Derrière les coulisses",
+  "hero_title": "Façonner des opportunités éducatives et professionnelles",
+  "hero_text": "Chez GMG, nous accompagnons les talents internationaux vers des expériences d'apprentissage et de travail enrichissantes en Allemagne et ailleurs.",
+  "btn_text": "Découvrez nos services",
+  "video_title": "À la découverte de GMG",
   "social_links": {
     "facebook": "Facebook",
     "youtube": "Youtube",
     "twitter": "Twitter"
   },
-  "brand_title": "Plus de 35k+ entreprises logicielles en croissance avec Collax",
-  "our_services": "Nos services",
-  "managing_business": "Gérer votre entreprise avec notre",
-  "best_service": "meilleur service",
+  "brand_title": "Plus de 10,000 talents accompagnés avec succès",
+  "our_services": "Nos Services",
+  "managing_business": "Transformez vos ambitions avec notre",
+  "best_service": "expertise éprouvée",
   "services": {
     "recruitment": {
-      "title": "Recrutement de Personnel de Santé",
-      "description": "Ouvrez la porte à une carrière internationale dans le secteur de la santé. Nous vous accompagnons dans le processus de recrutement pour des postes en Allemagne et en Arabie Saoudite, gérant le placement, les visas et l'intégration culturelle."
+      "title": "Recrutement de Personnel Médical",
+      "description": "Nous connectons les professionnels de santé qualifiés de Tunisie avec des opportunités en Allemagne. De la gestion des visas à l'intégration, nous prenons en charge chaque étape pour assurer une transition fluide."
     },
     "students_placement": {
-      "title": "Placement des Étudiants",
-      "description": "Étudiez dans les meilleures universités d'Allemagne et de France. Nous vous accompagnons dans les admissions, de la préparation des dossiers à votre installation dans votre nouveau pays."
+      "title": "Accompagnement Étudiants",
+      "description": "Étudiez dans des universités renommées en Allemagne grâce à notre soutien personnalisé, couvrant la sélection des programmes, les démarches administratives et votre intégration sur place."
     },
     "professional_training": {
       "title": "Formations Professionnelles",
-      "description": "L'Allemagne est réputée pour son excellence en formation professionnelle. Nous facilitons votre entrée dans des programmes de haute qualité en technologie, ingénierie et santé."
+      "description": "Participez à des formations spécialisées et professionnalisantes en Allemagne dans des domaines tels que la santé, l’ingénierie et la technologie, et démarquez-vous sur le marché du travail."
     },
     "language_school": {
       "title": "École de Langues",
-      "description": "Apprenez de nouvelles langues et débloquez de nouvelles opportunités. Notre école de langue allemande propose des cours pour tous les niveaux, du débutant à l'avancé."
+      "description": "Maîtrisez l'allemand avec des cours adaptés à vos besoins, que vous soyez étudiant ou professionnel. Nos cours intensifs B1 et B2 garantissent une préparation optimale."
     }
   },
-  "schedule_free_session": "Planifiez une session gratuite",
-  "why_choose_us": "Pourquoi nous choisir",
-  "feature_title": "Spécialistes dans l'accompagnement des clients face aux",
-  "feature_highlight": "défis financiers",
+  "schedule_free_session": "Planifiez une consultation gratuite",
+  "why_choose_us": "Pourquoi choisir GMG",
+  "feature_title": "Experts dans l'accompagnement pour",
+  "feature_highlight": "les études et carrières internationales",
   "features-home": {
-    "fast_process": "Processus de travail rapide",
-    "dedicated_team": "Équipe dédiée",
-    "support": "Support 24/7",
-    "description": "Chez Collax, nous nous spécialisons dans la conception, la construction, l'expédition et la mise à l'échelle de produits beaux et fonctionnels."
+    "fast_process": "Processus simplifié",
+    "dedicated_team": "Équipe expérimentée",
+    "support": "Assistance continue",
+    "description": "GMG vous guide à chaque étape de votre projet, en assurant un service rapide, fiable et personnalisé."
   },
   "testimonial": {
     "subtitle": "Témoignages",
     "title": "Découvrez ce que",
     "highlight_text": "nos clients disent",
-    "btn_text": "Plus de témoignages",
+    "btn_text": "Lire plus de témoignages",
     "data": [
       {
-        "desc": "Wow. Quelle expérience formidable avec ce rédacteur. Muhammad Noman est un rédacteur très talentueux. Hier, j'ai reçu son premier e-mail qui était incroyable.",
-        "name": "Leslie Alexander",
-        "title": "P. Designer de (Amazon)"
+        "desc": "Grâce à GMG, j'ai pu poursuivre mes études dans une université prestigieuse en Allemagne. Leur accompagnement a été exceptionnel.",
+        "name": "Hiba Ben Youssef",
+        "title": "Étudiante, Berlin"
       },
       {
-        "desc": "Conception UI/UX excellente. Elle a littéralement transformé mon application en une véritable œuvre d'art. Elle a des compétences étonnantes en conception UI.",
-        "name": "Guy Hawkins",
-        "title": "Designer UX de (GoDaddy)"
+        "desc": "Le processus de recrutement avec GMG a été fluide et efficace. Je travaille maintenant comme infirmière dans un hôpital en Allemagne.",
+        "name": "Ahmed Khemiri",
+        "title": "Infirmier, Francfort"
       },
       {
-        "desc": "Absolument incroyable. Nous ne pouvons pas croire à quel point c'était incroyable. Yetta Thomas est une véritable professionnelle avec une grande expérience.",
-        "name": "Kristin Watson",
-        "title": "PDG de (Zlitemes)"
+        "desc": "GMG a été un partenaire fiable dans ma transition vers une carrière internationale. Leur soutien constant a fait toute la différence.",
+        "name": "Noura Rahmani",
+        "title": "Physiothérapeute, Munich"
       }
     ]
   },
   "faq": {
-    "title": "Solutions : toutes vos questions répondues",
+    "title": "Vos questions, nos réponses",
     "question_one": {
       "title": "Comment puis-je postuler pour un emploi dans le secteur de la santé ?",
-      "description": "Nous vous accompagnons dans tout le processus de candidature, y compris la préparation des documents, l'entretien et la gestion du visa. Vous pouvez soumettre votre CV sur notre site, et notre équipe vous contactera pour la suite des étapes."
+      "description": "Nous vous aidons à préparer vos documents, à postuler et à gérer les démarches administratives, y compris les visas. Contactez-nous pour commencer."
     },
     "question_two": {
-      "title": "Comment puis-je m'inscrire dans une université en Allemagne ou en France ?",
-      "description": "Nous vous assistons dans la recherche des meilleures universités, la soumission de votre candidature et le suivi de vos admissions. Nos conseillers sont là pour vous guider à chaque étape."
+      "title": "Comment m'inscrire dans une université en Allemagne ?",
+      "description": "Nous vous guidons dans la recherche d'universités, la soumission de candidatures et le suivi jusqu'à l'admission. Nos conseillers sont là pour vous assister."
     },
     "question_three": {
-      "title": "Quels sont les critères pour accéder aux formations professionnelles en Allemagne ?",
-      "description": "Les formations professionnelles en Allemagne exigent généralement une connaissance de base de la langue allemande et un diplôme de fin d'études secondaires. Nous offrons également des cours de langue pour vous aider à vous préparer."
+      "title": "Quels sont les critères pour une formation professionnelle en Allemagne ?",
+      "description": "Vous devez généralement avoir un diplôme reconnu et un niveau B1 ou B2 en allemand. Nous offrons des cours de langue pour vous aider à remplir ces critères."
     },
     "question_four": {
-      "title": "Proposez-vous des cours de langue pour apprendre l'allemand ?",
-      "description": "Oui, nous offrons des cours de langue pour tous les niveaux. Que vous soyez débutant ou que vous souhaitiez perfectionner votre allemand, nos enseignants qualifiés sont là pour vous aider à réussir."
+      "title": "Proposez-vous des cours de langue allemande ?",
+      "description": "Oui, nous offrons des cours pour tous les niveaux, adaptés aux besoins des étudiants et des professionnels."
     },
     "question_five": {
-      "title": "Comment puis-je obtenir de l'aide pour ma candidature ?",
-      "description": "Notre équipe est disponible pour répondre à toutes vos questions par email ou téléphone. Vous pouvez également consulter la section de contact sur notre site pour plus d'informations."
+      "title": "Comment puis-je recevoir de l'aide pour ma candidature ?",
+      "description": "Notre équipe est disponible pour répondre à vos questions. Contactez-nous par email ou via notre formulaire en ligne."
     }
   },
   "features": {
-    "title": "Créer des expériences de classe mondiale",
-    "sm_desc_1": "Chez Grand Master Global, nous connectons les talents avec des opportunités uniques, transformant les vies des étudiants et des professionnels.",
-    "sm_desc_2": "Nos solutions ont permis de nouvelles façons d'apprendre, de travailler, et de prospérer.",
-    "project_kickoff": "Lancement de Projet",
-    "project_desc": "Des étapes initiales structurées pour atteindre vos objectifs.",
-    "ideation": "Idéation",
-    "ideation_desc": "Transformer vos idées en actions concrètes.",
-    "design_process": "Processus de Design",
-    "design_desc": "Des designs centrés sur l'utilisateur, adaptés à vos besoins.",
-    "development": "Développement",
-    "dev_desc": "Créer des solutions technologiques qui font la différence."
+    "title": "Réalisez vos rêves éducatifs et professionnels",
+    "sm_desc_1": "Chez GMG, nous ouvrons des portes vers des opportunités internationales pour les étudiants et les professionnels.",
+    "sm_desc_2": "Nos services simplifient les démarches, vous permettant de vous concentrer sur votre réussite.",
+    "project_kickoff": "Démarrage du projet",
+    "project_desc": "Une stratégie claire pour atteindre vos objectifs.",
+    "ideation": "Conception",
+    "ideation_desc": "Transformer vos idées en résultats concrets.",
+    "design_process": "Approche personnalisée",
+    "design_desc": "Une assistance adaptée à vos besoins spécifiques.",
+    "development": "Intégration",
+    "dev_desc": "Un soutien complet pour votre succès."
   },
-  "about-page": "À Propos de Grand Master Global",
+  "about-page": "À Propos de GMG",
   "services-page": "Nos Services",
   "about": {
-    "title": "À Propos de Grand Master Global",
-    "video_title": "Voir la Vidéo Démo",
-    "right_text_1": "Chez Grand Master Global, nous nous engageons à connecter les talents du monde entier avec des opportunités d'éducation et d'emploi. Notre mission est de faciliter le parcours des étudiants et des professionnels vers un avenir prometteur.",
-    "right_text_2": "Nous proposons une expérience d'apprentissage enrichissante et accessible, soutenue par des mentors expérimentés.",
+    "title": "À Propos de GMG",
+    "video_title": "Découvrez notre mission",
+    "right_text_1": "GMG est dédié à connecter les talents internationaux avec des opportunités d'éducation et de carrière. Notre objectif est de rendre les transitions simples et accessibles.",
+    "right_text_2": "Nous offrons un soutien personnalisé à chaque étape, garantissant une intégration réussie et durable.",
     "client_name": "Amine Rahmani",
     "client_title": "Professionnel de Santé, Allemagne",
-    "desc": "Grâce à Grand Master Global, j'ai pu trouver un poste dans un hôpital prestigieux en Allemagne. Leur support pendant tout le processus a été exceptionnel, du recrutement à l'intégration culturelle."
+    "desc": "Avec GMG, j'ai pu réussir ma transition vers l'Allemagne. Leur équipe a géré chaque étape, rendant l'expérience sans stress."
+  },
+  "contact-page": {
+    "mail_address": "Adresse E-mail",
+    "phone_number": "Numéro de Téléphone",
+    "address_line": "Adresse",
+    "address": "Tunis, Tunisie",
+    "lets_talk": "Discutons de votre projet",
+    "contact_image_alt": "Contactez-nous"
+  },
+  "offices": {
+    "title": "Nos Bureaux"
+  },
+  "tunisia_office": {
+    "section": "Notre Bureau en Tunisie",
+    "heading": "Bureau GMG Tunisie",
+    "description": "Notre bureau à Tunis est votre point de départ pour une carrière ou des études à l'international.",
+    "card_title": "Bureau en Tunisie",
+    "card_location": "Tunis, Tunisie",
+    "card_hours": "Ouvert du Lundi au Vendredi, 9:00 - 18:00"
+  },
+  "international_offices": {
+    "section": "Nos Bureaux Internationaux",
+    "heading": "Bureaux Internationaux",
+    "description": "Avec des bureaux en Allemagne, Arabie Saoudite et Colombie, nous vous offrons un accompagnement global pour atteindre vos objectifs.",
+    "colombia": {
+      "card_title": "Bureau en Colombie",
+      "card_location": "Bogotá, Colombie",
+      "card_hours": "Ouvert du Lundi au Vendredi, 8:30 - 17:30"
+    },
+    "germany": {
+      "card_title": "Bureau en Allemagne",
+      "card_location": "Berlin, Allemagne",
+      "card_hours": "Ouvert du Lundi au Vendredi, 9:00 - 18:00"
+    },
+    "saudi_arabia": {
+      "card_title": "Bureau en Arabie Saoudite",
+      "card_location": "Riyad, Arabie Saoudite",
+      "card_hours": "Ouvert du Dimanche au Jeudi, 8:00 - 16:00"
+    }
+  },
+  "location": "Emplacement",
+  "hours": "Horaires",
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "offices": "Nos Bureaux",
+    "contact": "Contact"
+  },
+  "footer": {
+    "useful_links": "Liens Utiles",
+    "community": "Communauté",
+    "copy_right": "© 2024 Votre Entreprise. Tous droits réservés.",
+    "conditions": ["Conditions d'utilisation", "Politique de confidentialité", "Centre d'aide"],
+    "widget_lists": {
+      "useful_links": ["Contactez-nous", "Comment ça marche", "Créer", "Explorer", "Conditions générales"],
+      "community": ["Centre d'aide", "Partenaires", "Suggestions", "Blog", "Newsletters"]
+    },
+    "subscribe_title": "Abonnez-vous à la Newsletter",
+    "subscribe_text": "Inscrivez-vous à notre newsletter pour recevoir des mises à jour sur nos services.",
+    "widget_desc": "Une nouvelle façon de rendre les paiements faciles, fiables et 100% sécurisés.",
+    "about_title": "À Propos de Nous"
   }
 }

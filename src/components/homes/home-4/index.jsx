@@ -30,7 +30,7 @@ const HomeFour = () => {
       <TestimonialArea />
       {/* <NewsLetter />
       <BlogArea /> */}
-      <FooterThree home_four={true} />
+      <FooterThree home_four={false} />
     </Wrapper>
   );
 };

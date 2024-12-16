@@ -15,7 +15,7 @@ const HeroArea = () => {
       <>
         {t("hero_title")}{" "}
         <span className="tp-highlight">
-          <HighlightTwo /> <i>Product</i>
+          <HighlightTwo /> <i>         </i>
         </span>
       </>
     ),

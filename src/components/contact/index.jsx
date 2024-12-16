@@ -4,6 +4,10 @@ import { animationCreate } from "../../utils/utils";
 import Breadcrumb from "../common/breadcrumb/breadcrumb";
 import ContactArea from "./contact-area";
 
+
+
+
+
 const Contact = () => {
   useEffect(() => {
     setTimeout(() => {

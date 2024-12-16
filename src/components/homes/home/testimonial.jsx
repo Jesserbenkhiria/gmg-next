@@ -106,7 +106,7 @@ const Testimonial = () => {
                 0: { slidesPerView: 1 },
               }}
             >
-              {testimonial_data.map((item, i) => (
+              {testimonial_data?.map((item, i) => (
                 <SwiperSlide key={i}>
                   <div className="tp-testimonial-item">
                     <div className="tp-testi-meta d-flex justify-content-between mb-40">

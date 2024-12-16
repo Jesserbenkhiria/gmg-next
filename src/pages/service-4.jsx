@@ -1,7 +1,12 @@
 import { Wrapper } from "../layout";
 import SEO from "../components/seo";
-import ServiceFourMain from "../components/services/service-4";
+
 import { serverSideTranslations } from "next-i18next/dist/commonjs/serverSideTranslations";
+import dynamic from "next/dynamic";
+const ServiceFourMain = dynamic(
+  () => import("../components/services/service-4"),
+  { ssr: false }
+);
 
 export const getStaticProps = async ({ locale }) => ({
   props: {

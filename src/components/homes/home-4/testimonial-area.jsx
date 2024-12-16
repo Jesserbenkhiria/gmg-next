@@ -66,7 +66,7 @@ const TestimonialArea = ({ home_6, style_2 = false }) => {
               },
             }}
           >
-            {testimonial_data.map((item, index) => {
+            {testimonial_data?.map((item, index) => {
               const { desc, name, title } = item;
               return (
                 <SwiperSlide key={index}>

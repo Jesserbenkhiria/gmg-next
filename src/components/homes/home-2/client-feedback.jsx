@@ -53,7 +53,7 @@ const ClientFeedback = () => {
                   }}
                   className="swiper-container testimonial-slider-two"
                 >
-                  {testimonial_data.map((item, i) => (
+                  {testimonial_data?.map((item, i) => (
                     <SwiperSlide key={i}>
                       <div className="tp-testimonial-item-two text-center">
                         <div className="tp-testimonial-info">

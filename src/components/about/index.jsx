@@ -23,8 +23,8 @@ const About = () => {
       <AboutArea />
       <ServicesArea />
       <FeatureArea />
-      <TeamArea />
-      <CtaTwo />
+      {/* <TeamArea />
+      <CtaTwo /> */}
       <FooterThree />
     </Wrapper>
   );

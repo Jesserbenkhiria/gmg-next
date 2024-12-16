@@ -1,0 +1,185 @@
+{
+  "welcome": "Willkommen bei GMG",
+  "language": "Sprache",
+  "menu": "Menü",
+  "contact": "Kontakt",
+  "Accueil": "Startseite",
+  "About": "Über uns",
+  "servicese": "Dienstleistungen",
+  "nos bureaux": "Unsere Büros",
+  "Contact": "Kontakt",
+  "hero_title": "Bildung und berufliche Möglichkeiten gestalten",
+  "hero_text": "Bei GMG begleiten wir internationale Talente zu bereichernden Lern- und Arbeitserfahrungen in Deutschland und darüber hinaus.",
+  "btn_text": "Entdecken Sie unsere Dienstleistungen",
+  "video_title": "Entdecken Sie GMG",
+  "social_links": {
+    "facebook": "Facebook",
+    "youtube": "Youtube",
+    "twitter": "Twitter"
+  },
+  "brand_title": "Über 10.000 Talente erfolgreich begleitet",
+  "our_services": "Unsere Dienstleistungen",
+  "managing_business": "Verwandeln Sie Ihre Ambitionen mit unserer",
+  "best_service": "bewährten Expertise",
+  "services": {
+    "recruitment": {
+      "title": "Rekrutierung im Gesundheitswesen",
+      "description": "Wir verbinden qualifizierte Fachkräfte im Gesundheitswesen aus Tunesien mit Möglichkeiten in Deutschland. Von der Visaverwaltung bis zur Integration übernehmen wir jeden Schritt, um einen reibungslosen Übergang zu gewährleisten."
+    },
+    "students_placement": {
+      "title": "Studentenunterstützung",
+      "description": "Studieren Sie an renommierten Universitäten in Deutschland mit unserer individuellen Unterstützung, von der Programmauswahl über administrative Prozesse bis hin zur Integration vor Ort."
+    },
+    "professional_training": {
+      "title": "Berufsausbildung",
+      "description": "Nehmen Sie an spezialisierten und beruflichen Schulungen in Deutschland in Bereichen wie Gesundheitswesen, Ingenieurwesen und Technologie teil und heben Sie sich auf dem Arbeitsmarkt ab."
+    },
+    "language_school": {
+      "title": "Sprachschule",
+      "description": "Lernen Sie Deutsch mit Kursen, die auf Ihre Bedürfnisse zugeschnitten sind, egal ob Sie Student oder Fachkraft sind. Unsere intensiven B1- und B2-Kurse gewährleisten eine optimale Vorbereitung."
+    }
+  },
+  "schedule_free_session": "Planen Sie eine kostenlose Beratung",
+  "why_choose_us": "Warum GMG wählen",
+  "feature_title": "Experten in der Unterstützung für",
+  "feature_highlight": "internationale Bildung und Karrieren",
+  "features-home": {
+    "fast_process": "Vereinfachter Prozess",
+    "dedicated_team": "Erfahrenes Team",
+    "support": "Kontinuierliche Unterstützung",
+    "description": "GMG begleitet Sie auf jedem Schritt Ihres Projekts und bietet schnellen, zuverlässigen und persönlichen Service."
+  },
+  "testimonial": {
+    "subtitle": "Kundenbewertungen",
+    "title": "Sehen Sie, was",
+    "highlight_text": "unsere Kunden sagen",
+    "btn_text": "Weitere Bewertungen lesen",
+    "data": [
+      {
+        "desc": "Dank GMG konnte ich an einer renommierten Universität in Deutschland studieren. Ihre Unterstützung war außergewöhnlich.",
+        "name": "Hiba Ben Youssef",
+        "title": "Studentin, Berlin"
+      },
+      {
+        "desc": "Der Rekrutierungsprozess mit GMG war reibungslos und effizient. Ich arbeite jetzt als Krankenschwester in Deutschland.",
+        "name": "Ahmed Khemiri",
+        "title": "Krankenschwester, Frankfurt"
+      },
+      {
+        "desc": "GMG war ein zuverlässiger Partner in meinem Übergang zu einer internationalen Karriere. Ihre ständige Unterstützung hat den Unterschied gemacht.",
+        "name": "Noura Rahmani",
+        "title": "Physiotherapeutin, München"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ihre Fragen, unsere Antworten",
+    "question_one": {
+      "title": "Wie kann ich mich für einen Job im Gesundheitswesen bewerben?",
+      "description": "Wir helfen Ihnen bei der Vorbereitung Ihrer Dokumente, der Bewerbung und der Verwaltung der administrativen Prozesse, einschließlich Visa. Kontaktieren Sie uns, um zu beginnen."
+    },
+    "question_two": {
+      "title": "Wie schreibe ich mich an einer Universität in Deutschland ein?",
+      "description": "Wir unterstützen Sie bei der Suche nach Universitäten, der Einreichung von Bewerbungen und der Verfolgung bis zur Zulassung. Unsere Berater sind für Sie da."
+    },
+    "question_three": {
+      "title": "Welche Voraussetzungen gibt es für eine berufliche Ausbildung in Deutschland?",
+      "description": "Sie benötigen in der Regel ein anerkanntes Diplom und ein B1- oder B2-Niveau in Deutsch. Wir bieten Sprachkurse an, um Ihnen zu helfen, diese Kriterien zu erfüllen."
+    },
+    "question_four": {
+      "title": "Bieten Sie Deutschkurse an?",
+      "description": "Ja, wir bieten Kurse für alle Niveaus an, die auf die Bedürfnisse von Studenten und Fachleuten zugeschnitten sind."
+    },
+    "question_five": {
+      "title": "Wie kann ich Hilfe bei meiner Bewerbung erhalten?",
+      "description": "Unser Team steht Ihnen zur Verfügung, um Ihre Fragen zu beantworten. Kontaktieren Sie uns per E-Mail oder unser Online-Formular."
+    }
+  },
+  "features": {
+    "title": "Erreichen Sie Ihre Bildungs- und Berufsträume",
+    "sm_desc_1": "Bei GMG öffnen wir Türen zu internationalen Möglichkeiten für Studenten und Fachkräfte.",
+    "sm_desc_2": "Unsere Dienstleistungen vereinfachen den Prozess, damit Sie sich auf Ihren Erfolg konzentrieren können.",
+    "project_kickoff": "Projektstart",
+    "project_desc": "Eine klare Strategie zur Erreichung Ihrer Ziele.",
+    "ideation": "Design",
+    "ideation_desc": "Verwandeln Sie Ihre Ideen in konkrete Ergebnisse.",
+    "design_process": "Individueller Ansatz",
+    "design_desc": "Maßgeschneiderte Unterstützung für Ihre spezifischen Bedürfnisse.",
+    "development": "Integration",
+    "dev_desc": "Umfassende Unterstützung für Ihren Erfolg."
+  },
+  "about-page": "Über GMG",
+  "services-page": "Unsere Dienstleistungen",
+  "about": {
+    "title": "Über GMG",
+    "video_title": "Entdecken Sie unsere Mission",
+    "right_text_1": "GMG ist darauf spezialisiert, internationale Talente mit Bildungs- und Karrieremöglichkeiten zu verbinden. Unser Ziel ist es, Übergänge einfach und zugänglich zu machen.",
+    "right_text_2": "Wir bieten personalisierte Unterstützung bei jedem Schritt und gewährleisten eine erfolgreiche und nachhaltige Integration.",
+    "client_name": "Amine Rahmani",
+    "client_title": "Gesundheitsfachkraft, Deutschland",
+    "desc": "Mit GMG habe ich den Übergang nach Deutschland erfolgreich gemeistert. Ihr Team hat jeden Schritt übernommen und die Erfahrung stressfrei gemacht."
+  },
+  "contact-page": {
+    "mail_address": "E-Mail-Adresse",
+    "phone_number": "Telefonnummer",
+    "address_line": "Adresse",
+    "address": "Tunis, Tunesien",
+    "lets_talk": "Lassen Sie uns Ihr Projekt besprechen",
+    "contact_image_alt": "Kontaktieren Sie uns"
+  },
+  "offices": {
+    "title": "Unsere Büros"
+  },
+  "tunisia_office": {
+    "section": "Unser Büro in Tunesien",
+    "heading": "GMG Büro Tunesien",
+    "description": "Unser Büro in Tunis ist Ihr Ausgangspunkt für eine Karriere oder ein Studium im Ausland.",
+    "card_title": "Büro in Tunesien",
+    "card_location": "Tunis, Tunesien",
+    "card_hours": "Geöffnet Montag bis Freitag, 9:00 - 18:00 Uhr"
+  },
+  "international_offices": {
+    "section": "Unsere internationalen Büros",
+    "heading": "Internationale Büros",
+    "description": "Mit Büros in Deutschland, Saudi-Arabien und Kolumbien bieten wir globale Unterstützung, um Ihre Ziele zu erreichen.",
+    "colombia": {
+      "card_title": "Büro in Kolumbien",
+      "card_location": "Bogotá, Kolumbien",
+      "card_hours": "Geöffnet Montag bis Freitag, 8:30 - 17:30 Uhr"
+    },
+    "germany": {
+      "card_title": "Büro in Deutschland",
+      "card_location": "Berlin, Deutschland",
+      "card_hours": "Geöffnet Montag bis Freitag, 9:00 - 18:00 Uhr"
+    },
+    "saudi_arabia": {
+      "card_title": "Büro in Saudi-Arabien",
+      "card_location": "Riad, Saudi-Arabien",
+      "card_hours": "Geöffnet Sonntag bis Donnerstag, 8:00 - 16:00 Uhr"
+    }
+  },
+  "location": "Standort",
+  "hours": "Öffnungszeiten",
+  "navbar": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "offices": "Unsere Büros",
+    "contact": "Kontakt"
+  },
+  "footer": {
+  "useful_links": "Nützliche Links",
+  "community": "Gemeinschaft",
+  "copy_right": "© 2024 Ihr Unternehmen. Alle Rechte vorbehalten.",
+  "conditions": ["Nutzungsbedingungen", "Datenschutzrichtlinie", "Hilfezentrum"],
+  "widget_lists": {
+    "useful_links": ["Kontaktieren Sie uns", "Wie es funktioniert", "Erstellen", "Entdecken", "Allgemeine Geschäftsbedingungen"],
+    "community": ["Hilfezentrum", "Partner", "Vorschläge", "Blog", "Newsletter"]
+  },
+  "subscribe_title": "Abonnieren Sie den Newsletter",
+  "subscribe_text": "Melden Sie sich für unseren Newsletter an, um Updates zu unseren Dienstleistungen zu erhalten.",
+  "widget_desc": "Eine neue Möglichkeit, Zahlungen einfach, zuverlässig und 100% sicher zu machen.",
+  "about_title": "Über uns"
+}
+
+}

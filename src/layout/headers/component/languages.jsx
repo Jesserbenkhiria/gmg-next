@@ -24,6 +24,7 @@ console.log(locale);
             {lang === 'en' && 'English'}
             {lang === 'fr' && 'Français'}
             {lang === 'de' && 'Deutsch'}
+            {lang === 'es' && 'Español'}
           </button>
         </li>
       ))}
