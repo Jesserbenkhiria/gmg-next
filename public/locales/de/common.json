@@ -2,71 +2,153 @@
   "welcome": "Willkommen bei GMG",
   "language": "Sprache",
   "menu": "Menü",
-  "contact": "Kontakt",
+  "contact": "Kontaktieren Sie uns",
   "Accueil": "Startseite",
   "About": "Über uns",
   "servicese": "Dienstleistungen",
   "nos bureaux": "Unsere Büros",
   "Contact": "Kontakt",
-  "hero_title": "Bildung und berufliche Möglichkeiten gestalten",
-  "hero_text": "Bei GMG begleiten wir internationale Talente zu bereichernden Lern- und Arbeitserfahrungen in Deutschland und darüber hinaus.",
+  "hero_title": "Bildungs- und Karrieremöglichkeiten gestalten",
+  "hero_text": "Bei GMG unterstützen wir internationale Talente dabei, bereichernde Lern- und Berufserfahrungen in Deutschland und darüber hinaus zu verfolgen.",
   "btn_text": "Entdecken Sie unsere Dienstleistungen",
   "video_title": "Entdecken Sie GMG",
   "social_links": {
     "facebook": "Facebook",
-    "youtube": "Youtube",
+    "youtube": "YouTube",
     "twitter": "Twitter"
   },
-  "brand_title": "Über 10.000 Talente erfolgreich begleitet",
+  "brand_title": "Über 10.000 Talente erfolgreich unterstützt",
   "our_services": "Unsere Dienstleistungen",
-  "managing_business": "Verwandeln Sie Ihre Ambitionen mit unserer",
+  "managing_business": "Verwirklichen Sie Ihre Ambitionen mit unserer",
   "best_service": "bewährten Expertise",
+
   "services": {
     "recruitment": {
-      "title": "Rekrutierung im Gesundheitswesen",
-      "description": "Wir verbinden qualifizierte Fachkräfte im Gesundheitswesen aus Tunesien mit Möglichkeiten in Deutschland. Von der Visaverwaltung bis zur Integration übernehmen wir jeden Schritt, um einen reibungslosen Übergang zu gewährleisten."
+      "title": "Gesundheitswesen-Rekrutierung",
+      "description": "Eine internationale Karriere im Gesundheitswesen erwartet Sie. Wir verbinden Gesundheitsfachkräfte mit außergewöhnlichen Möglichkeiten in Deutschland und Saudi-Arabien.",
+      "details": [
+        {
+          "title": "Maßgeschneiderte Jobvermittlung",
+          "description": "Zusammenarbeit mit renommierten Krankenhäusern, Kliniken und Gesundheitseinrichtungen, um Möglichkeiten entsprechend Ihrer Spezialisierung und Fähigkeiten zu bieten."
+        },
+        {
+          "title": "Umfassende Verwaltungsunterstützung",
+          "description": "Verwaltung von Visaverfahren und beruflicher Anerkennung (Diplomgleichwertigkeit). Vorbereitung der erforderlichen Dokumente für einen reibungslosen Übergang."
+        },
+        {
+          "title": "Kulturelle und berufliche Integration",
+          "description": "Deutsch- oder Englischkurse (je nach Zielort), um Ihren Erfolg in einem multikulturellen Umfeld zu gewährleisten. Integrationsworkshops: Einführung in lokale kulturelle und berufliche Praktiken."
+        }
+      ],
+      "why_choose_us": [
+        "Expertise in internationaler Rekrutierung, insbesondere im Gesundheitssektor.",
+        "Umfassendes Netzwerk von Partnern in Deutschland und Saudi-Arabien.",
+        "Umfassende Unterstützung von der Anmeldung bis zur erfolgreichen Integration."
+      ],
+      "cta": "Jetzt bewerben"
     },
     "students_placement": {
-      "title": "Studentenunterstützung",
-      "description": "Studieren Sie an renommierten Universitäten in Deutschland mit unserer individuellen Unterstützung, von der Programmauswahl über administrative Prozesse bis hin zur Integration vor Ort."
+      "title": "Studentenvermittlung",
+      "description": "Studieren Sie an international renommierten Universitäten. Wir helfen Ihnen, sich an den besten Universitäten in Deutschland, Italien und Frankreich einzuschreiben.",
+      "details": [
+        {
+          "title": "Individuelle Studienberatung",
+          "description": "Analyse Ihres akademischen Profils, Ihrer Ziele und Interessen. Beratung bei der Auswahl von Universitäten und Programmen, die zu Ihren Ambitionen passen."
+        },
+        {
+          "title": "Unterstützung während des gesamten Zulassungsprozesses",
+          "description": "Dokumentenvorbereitung: Übersetzung, Beglaubigung und Einhaltung akademischer Anforderungen. Unterstützung beim Ausfüllen von Formularen und Erfüllung universitätsspezifischer Anforderungen."
+        },
+        {
+          "title": "Nach-Zulassungs-Dienstleistungen",
+          "description": "Verwaltung von Studentenvisa, Unterstützung bei der Unterkunftssuche, beim Abschluss von Versicherungen und Sprachkursen für eine reibungslose akademische und soziale Integration."
+        }
+      ],
+      "why_choose_us": [
+        "Anerkannte Expertise: Jahre lange Erfahrung in der Unterstützung internationaler Studierender.",
+        "Umfassendes Universitätsnetzwerk: Partnerschaften mit renommierten Institutionen in Deutschland, Italien und Frankreich.",
+        "Umfassender Service: Rundum-Betreuung von der Bewerbung bis zur Eingewöhnung."
+      ],
+      "cta": "Jetzt bewerben"
     },
     "professional_training": {
       "title": "Berufsausbildung",
-      "description": "Nehmen Sie an spezialisierten und beruflichen Schulungen in Deutschland in Bereichen wie Gesundheitswesen, Ingenieurwesen und Technologie teil und heben Sie sich auf dem Arbeitsmarkt ab."
+      "description": "Nehmen Sie an erstklassigen Ausbildungsprogrammen in Deutschland in stark nachgefragten Sektoren wie Gesundheitswesen, Ingenieurwesen und Technologie teil.",
+      "details": [
+        {
+          "title": "Orientierung und Ausbildungswahl",
+          "description": "Bewertung Ihres Profils und Ihrer Fähigkeiten. Auswahl von Ausbildungsprogrammen, die zu Ihren beruflichen Zielen und Leidenschaften passen."
+        },
+        {
+          "title": "Verwaltungsunterstützung",
+          "description": "Dokumentenvorbereitung: Übersetzung, Legalisierung und Beglaubigung. Einreichung an Fachschulen und Partnerunternehmen. Visaverwaltung: Umfassende Unterstützung bei der Beantragung eines Ausbildungsvisums."
+        },
+        {
+          "title": "Zusatzleistungen für einen reibungslosen Übergang",
+          "description": "Sprachkurse: Deutschtraining, um das erforderliche Niveau (B1 oder B2) zu erreichen. Kulturelle Vorbereitung: Workshops zum Verständnis des deutschen Bildungs- und Arbeitssystems."
+        }
+      ],
+      "why_choose_us": [
+        "Zugang zu einzigartigen Möglichkeiten: Zusammenarbeit mit führenden Unternehmen in verschiedenen Branchen.",
+        "Individuelle Betreuung: Personalisierte Begleitung für maximalen Erfolg.",
+        "Garantierte berufliche Integration: Die meisten Teilnehmer finden nach ihrer Ausbildung in Deutschland eine Anstellung."
+      ],
+      "cta": "Starten Sie Ihre Berufsausbildung"
     },
     "language_school": {
       "title": "Sprachschule",
-      "description": "Lernen Sie Deutsch mit Kursen, die auf Ihre Bedürfnisse zugeschnitten sind, egal ob Sie Student oder Fachkraft sind. Unsere intensiven B1- und B2-Kurse gewährleisten eine optimale Vorbereitung."
+      "description": "Lernen Sie Sprachen und nutzen Sie neue Möglichkeiten durch unsere Sprachschule. Wir bieten Deutsch-, Englisch-, Italienisch- und Spanischkurse für alle Niveaus an.",
+      "details": [
+        {
+          "title": "Deutschkurse",
+          "description": "Angebotene Niveaus: A1 bis B2. Verfügbare Optionen: Intensivkurse für schnelle Ergebnisse oder extensiv an Ihren Zeitplan angepasste Kurse. Vorbereitung auf die Prüfungen Goethe, Telc, ÖSD und ECL."
+        },
+        {
+          "title": "Englischkurse",
+          "description": "Angebotene Niveaus: Von Anfänger bis Fortgeschrittene. Ziele: Vorbereitung auf TOEFL-, IELTS- oder Cambridge-Prüfungen. Entwicklung von Fähigkeiten für professionelle oder akademische Kommunikation."
+        },
+        {
+          "title": "Italienisch- und Spanischkurse",
+          "description": "Kurse für grundlegende oder fortgeschrittene Kommunikation, geeignet für Studium, Reisen oder Arbeit. Einführung in die italienische und spanische Kultur."
+        }
+      ],
+      "why_choose_us": [
+        "Moderne Lehrmethoden: Interaktive und immersive Ansätze für schnelles und effektives Lernen.",
+        "Qualifizierte Lehrer: Unsere Lehrkräfte sind erfahren und spezialisiert im Sprachunterricht.",
+        "Flexibilität: Optionen für Präsenz- oder Onlinekurse nach Ihren Vorlieben."
+      ],
+      "cta": "Melden Sie sich für einen Sprachkurs an"
     }
   },
-  "schedule_free_session": "Planen Sie eine kostenlose Beratung",
+
+  "schedule_free_session": "Vereinbaren Sie eine kostenlose Beratung",
   "why_choose_us": "Warum GMG wählen",
-  "feature_title": "Experten in der Unterstützung für",
-  "feature_highlight": "internationale Bildung und Karrieren",
+  "feature_title": "Experten für die Unterstützung von",
+  "feature_highlight": "internationaler Bildung und Karrieren",
   "features-home": {
     "fast_process": "Vereinfachter Prozess",
     "dedicated_team": "Erfahrenes Team",
     "support": "Kontinuierliche Unterstützung",
-    "description": "GMG begleitet Sie auf jedem Schritt Ihres Projekts und bietet schnellen, zuverlässigen und persönlichen Service."
+    "description": "GMG begleitet Sie bei jedem Schritt und bietet schnellen, zuverlässigen und persönlichen Service."
   },
   "testimonial": {
-    "subtitle": "Kundenbewertungen",
+    "subtitle": "Erfahrungsberichte",
     "title": "Sehen Sie, was",
     "highlight_text": "unsere Kunden sagen",
-    "btn_text": "Weitere Bewertungen lesen",
+    "btn_text": "Mehr Erfahrungsberichte lesen",
     "data": [
       {
-        "desc": "Dank GMG konnte ich an einer renommierten Universität in Deutschland studieren. Ihre Unterstützung war außergewöhnlich.",
+        "desc": "Dank GMG konnte ich mein Studium an einer renommierten Universität in Deutschland fortsetzen. Ihre Unterstützung war außergewöhnlich.",
         "name": "Hiba Ben Youssef",
         "title": "Studentin, Berlin"
       },
       {
-        "desc": "Der Rekrutierungsprozess mit GMG war reibungslos und effizient. Ich arbeite jetzt als Krankenschwester in Deutschland.",
+        "desc": "Der Rekrutierungsprozess mit GMG war reibungslos und effektiv. Ich arbeite jetzt als Krankenpfleger in einem Krankenhaus in Deutschland.",
         "name": "Ahmed Khemiri",
-        "title": "Krankenschwester, Frankfurt"
+        "title": "Krankenpfleger, Frankfurt"
       },
       {
-        "desc": "GMG war ein zuverlässiger Partner in meinem Übergang zu einer internationalen Karriere. Ihre ständige Unterstützung hat den Unterschied gemacht.",
+        "desc": "GMG war ein verlässlicher Partner bei meinem Übergang zu einer internationalen Karriere. Ihre kontinuierliche Unterstützung machte den Unterschied.",
         "name": "Noura Rahmani",
         "title": "Physiotherapeutin, München"
       }
@@ -76,35 +158,35 @@
     "title": "Ihre Fragen, unsere Antworten",
     "question_one": {
       "title": "Wie kann ich mich für einen Job im Gesundheitswesen bewerben?",
-      "description": "Wir helfen Ihnen bei der Vorbereitung Ihrer Dokumente, der Bewerbung und der Verwaltung der administrativen Prozesse, einschließlich Visa. Kontaktieren Sie uns, um zu beginnen."
+      "description": "Wir helfen Ihnen bei der Vorbereitung Ihrer Dokumente, Bewerbung und Verwaltung von administrativen Verfahren, einschließlich Visa. Kontaktieren Sie uns, um loszulegen."
     },
     "question_two": {
       "title": "Wie schreibe ich mich an einer Universität in Deutschland ein?",
-      "description": "Wir unterstützen Sie bei der Suche nach Universitäten, der Einreichung von Bewerbungen und der Verfolgung bis zur Zulassung. Unsere Berater sind für Sie da."
+      "description": "Wir begleiten Sie bei der Recherche von Universitäten, der Einreichung von Bewerbungen und dem Follow-up bis zur Zulassung. Unsere Berater stehen Ihnen zur Verfügung."
     },
     "question_three": {
-      "title": "Welche Voraussetzungen gibt es für eine berufliche Ausbildung in Deutschland?",
-      "description": "Sie benötigen in der Regel ein anerkanntes Diplom und ein B1- oder B2-Niveau in Deutsch. Wir bieten Sprachkurse an, um Ihnen zu helfen, diese Kriterien zu erfüllen."
+      "title": "Welche Voraussetzungen gibt es für eine Berufsausbildung in Deutschland?",
+      "description": "In der Regel benötigen Sie ein anerkanntes Diplom und ein B1- oder B2-Niveau in Deutsch. Wir bieten Sprachkurse an, um Ihnen zu helfen, diese Anforderungen zu erfüllen."
     },
     "question_four": {
       "title": "Bieten Sie Deutschkurse an?",
-      "description": "Ja, wir bieten Kurse für alle Niveaus an, die auf die Bedürfnisse von Studenten und Fachleuten zugeschnitten sind."
+      "description": "Ja, wir bieten Kurse für alle Niveaus an, die auf die Bedürfnisse von Studenten und Fachkräften zugeschnitten sind."
     },
     "question_five": {
       "title": "Wie kann ich Hilfe bei meiner Bewerbung erhalten?",
-      "description": "Unser Team steht Ihnen zur Verfügung, um Ihre Fragen zu beantworten. Kontaktieren Sie uns per E-Mail oder unser Online-Formular."
+      "description": "Unser Team steht Ihnen zur Verfügung, um Ihre Fragen zu beantworten. Kontaktieren Sie uns per E-Mail oder über unser Online-Formular."
     }
   },
   "features": {
-    "title": "Erreichen Sie Ihre Bildungs- und Berufsträume",
+    "title": "Erreichen Sie Ihre Bildungs- und Karriereträume",
     "sm_desc_1": "Bei GMG öffnen wir Türen zu internationalen Möglichkeiten für Studenten und Fachkräfte.",
     "sm_desc_2": "Unsere Dienstleistungen vereinfachen den Prozess, damit Sie sich auf Ihren Erfolg konzentrieren können.",
     "project_kickoff": "Projektstart",
-    "project_desc": "Eine klare Strategie zur Erreichung Ihrer Ziele.",
-    "ideation": "Design",
-    "ideation_desc": "Verwandeln Sie Ihre Ideen in konkrete Ergebnisse.",
-    "design_process": "Individueller Ansatz",
-    "design_desc": "Maßgeschneiderte Unterstützung für Ihre spezifischen Bedürfnisse.",
+    "project_desc": "Eine klare Strategie, um Ihre Ziele zu erreichen.",
+    "ideation": "Ideenfindung",
+    "ideation_desc": "Ihre Ideen in greifbare Ergebnisse umsetzen.",
+    "design_process": "Maßgeschneiderter Ansatz",
+    "design_desc": "Unterstützung, die auf Ihre spezifischen Bedürfnisse zugeschnitten ist.",
     "development": "Integration",
     "dev_desc": "Umfassende Unterstützung für Ihren Erfolg."
   },
@@ -114,17 +196,17 @@
     "title": "Über GMG",
     "video_title": "Entdecken Sie unsere Mission",
     "right_text_1": "GMG ist darauf spezialisiert, internationale Talente mit Bildungs- und Karrieremöglichkeiten zu verbinden. Unser Ziel ist es, Übergänge einfach und zugänglich zu machen.",
-    "right_text_2": "Wir bieten personalisierte Unterstützung bei jedem Schritt und gewährleisten eine erfolgreiche und nachhaltige Integration.",
+    "right_text_2": "Wir bieten personalisierte Unterstützung in jedem Schritt, um eine erfolgreiche und nachhaltige Integration zu gewährleisten.",
     "client_name": "Amine Rahmani",
     "client_title": "Gesundheitsfachkraft, Deutschland",
-    "desc": "Mit GMG habe ich den Übergang nach Deutschland erfolgreich gemeistert. Ihr Team hat jeden Schritt übernommen und die Erfahrung stressfrei gemacht."
+    "desc": "Mit GMG konnte ich erfolgreich nach Deutschland wechseln. Ihr Team hat jeden Schritt übernommen, was die Erfahrung stressfrei gemacht hat."
   },
   "contact-page": {
     "mail_address": "E-Mail-Adresse",
     "phone_number": "Telefonnummer",
     "address_line": "Adresse",
     "address": "Tunis, Tunesien",
-    "lets_talk": "Lassen Sie uns Ihr Projekt besprechen",
+    "lets_talk": "Lassen Sie uns über Ihr Projekt sprechen",
     "contact_image_alt": "Kontaktieren Sie uns"
   },
   "offices": {
@@ -132,11 +214,11 @@
   },
   "tunisia_office": {
     "section": "Unser Büro in Tunesien",
-    "heading": "GMG Büro Tunesien",
-    "description": "Unser Büro in Tunis ist Ihr Ausgangspunkt für eine Karriere oder ein Studium im Ausland.",
+    "heading": "GMG Büro in Tunesien",
+    "description": "Unser Büro in Tunis ist Ihr Ausgangspunkt für eine internationale Karriere oder Bildung.",
     "card_title": "Büro in Tunesien",
     "card_location": "Tunis, Tunesien",
-    "card_hours": "Geöffnet Montag bis Freitag, 9:00 - 18:00 Uhr"
+    "card_hours": "Geöffnet von Montag bis Freitag, 9:00 bis 18:00 Uhr"
   },
   "international_offices": {
     "section": "Unsere internationalen Büros",
@@ -145,17 +227,17 @@
     "colombia": {
       "card_title": "Büro in Kolumbien",
       "card_location": "Bogotá, Kolumbien",
-      "card_hours": "Geöffnet Montag bis Freitag, 8:30 - 17:30 Uhr"
+      "card_hours": "Geöffnet von Montag bis Freitag, 8:30 bis 17:30 Uhr"
     },
     "germany": {
       "card_title": "Büro in Deutschland",
       "card_location": "Berlin, Deutschland",
-      "card_hours": "Geöffnet Montag bis Freitag, 9:00 - 18:00 Uhr"
+      "card_hours": "Geöffnet von Montag bis Freitag, 9:00 bis 18:00 Uhr"
     },
     "saudi_arabia": {
       "card_title": "Büro in Saudi-Arabien",
       "card_location": "Riad, Saudi-Arabien",
-      "card_hours": "Geöffnet Sonntag bis Donnerstag, 8:00 - 16:00 Uhr"
+      "card_hours": "Geöffnet von Sonntag bis Donnerstag, 8:00 bis 16:00 Uhr"
     }
   },
   "location": "Standort",
@@ -168,18 +250,33 @@
     "contact": "Kontakt"
   },
   "footer": {
-  "useful_links": "Nützliche Links",
-  "community": "Gemeinschaft",
-  "copy_right": "© 2024 Ihr Unternehmen. Alle Rechte vorbehalten.",
-  "conditions": ["Nutzungsbedingungen", "Datenschutzrichtlinie", "Hilfezentrum"],
-  "widget_lists": {
-    "useful_links": ["Kontaktieren Sie uns", "Wie es funktioniert", "Erstellen", "Entdecken", "Allgemeine Geschäftsbedingungen"],
-    "community": ["Hilfezentrum", "Partner", "Vorschläge", "Blog", "Newsletter"]
-  },
-  "subscribe_title": "Abonnieren Sie den Newsletter",
-  "subscribe_text": "Melden Sie sich für unseren Newsletter an, um Updates zu unseren Dienstleistungen zu erhalten.",
-  "widget_desc": "Eine neue Möglichkeit, Zahlungen einfach, zuverlässig und 100% sicher zu machen.",
-  "about_title": "Über uns"
-}
-
+    "useful_links": "Nützliche Links",
+    "community": "Gemeinschaft",
+    "copy_right": "© 2024 Ihr Unternehmen. Alle Rechte vorbehalten.",
+    "conditions": [
+      "Nutzungsbedingungen",
+      "Datenschutzrichtlinie",
+      "Hilfezentrum"
+    ],
+    "widget_lists": {
+      "useful_links": [
+        "Kontaktieren Sie uns",
+        "Wie es funktioniert",
+        "Erstellen",
+        "Erkunden",
+        "Allgemeine Geschäftsbedingungen"
+      ],
+      "community": [
+        "Hilfezentrum",
+        "Partner",
+        "Vorschläge",
+        "Blog",
+        "Newsletter"
+      ]
+    },
+    "subscribe_title": "Abonnieren Sie den Newsletter",
+    "subscribe_text": "Melden Sie sich für unseren Newsletter an, um Updates zu unseren Dienstleistungen zu erhalten.",
+    "widget_desc": "Eine neue Art, Zahlungen einfach, zuverlässig und 100 % sicher zu machen.",
+    "about_title": "Über uns"
+  }
 }

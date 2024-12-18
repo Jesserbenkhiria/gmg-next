@@ -4,56 +4,138 @@
   "menu": "Menú",
   "contact": "Contáctanos",
   "Accueil": "Inicio",
-  "About": "Sobre nosotros",
+  "About": "Acerca de",
   "servicese": "Servicios",
   "nos bureaux": "Nuestras Oficinas",
   "Contact": "Contacto",
-  "hero_title": "Creando oportunidades educativas y profesionales",
-  "hero_text": "En GMG, acompañamos a talentos internacionales hacia experiencias enriquecedoras de aprendizaje y trabajo en Alemania y más allá.",
-  "btn_text": "Descubre nuestros servicios",
+  "hero_title": "Creando Oportunidades Educativas y Profesionales",
+  "hero_text": "En GMG, apoyamos a talentos internacionales a buscar experiencias enriquecedoras de aprendizaje y trabajo en Alemania y más allá.",
+  "btn_text": "Explora Nuestros Servicios",
   "video_title": "Descubre GMG",
   "social_links": {
     "facebook": "Facebook",
-    "youtube": "Youtube",
+    "youtube": "YouTube",
     "twitter": "Twitter"
   },
-  "brand_title": "Más de 10,000 talentos apoyados con éxito",
+  "brand_title": "Más de 10,000 Talentos Apoyados con Éxito",
   "our_services": "Nuestros Servicios",
   "managing_business": "Transforma tus ambiciones con nuestra",
   "best_service": "experiencia comprobada",
+
   "services": {
     "recruitment": {
-      "title": "Reclutamiento en el sector salud",
-      "description": "Conectamos a profesionales de la salud calificados de Túnez con oportunidades en Alemania. Desde la gestión de visados hasta la integración, nos encargamos de cada paso para garantizar una transición fluida."
+      "title": "Reclutamiento en Salud",
+      "description": "Te espera una carrera internacional en el sector salud. Conectamos a profesionales de la salud con oportunidades inigualables en Alemania y Arabia Saudita.",
+      "details": [
+        {
+          "title": "Colocación Laboral Personalizada",
+          "description": "Colaboración con hospitales, clínicas e instituciones de salud reconocidas para garantizar oportunidades acorde a tu especialización y habilidades."
+        },
+        {
+          "title": "Soporte Administrativo Integral",
+          "description": "Gestión de procedimientos de visa y reconocimiento profesional (equivalencia de títulos). Preparación de los documentos necesarios para una transición fluida y sin estrés."
+        },
+        {
+          "title": "Integración Cultural y Profesional",
+          "description": "Cursos de alemán o inglés (según el destino) para asegurar tu éxito en un entorno multicultural. Talleres de integración: Familiarización con las prácticas culturales y profesionales locales."
+        }
+      ],
+      "why_choose_us": [
+        "Experiencia en reclutamiento internacional, especialmente en el sector salud.",
+        "Amplia red de socios en Alemania y Arabia Saudita.",
+        "Soporte integral desde el registro hasta la colocación y una integración exitosa."
+      ],
+      "cta": "Aplica Ahora"
     },
     "students_placement": {
-      "title": "Colocación de estudiantes",
-      "description": "Estudia en universidades de renombre en Alemania con nuestro apoyo personalizado, que incluye selección de programas, trámites administrativos e integración local."
+      "title": "Colocación Estudiantil",
+      "description": "Estudia en universidades de renombre internacional. Te ayudamos a inscribirte en las mejores universidades de Alemania, Italia y Francia.",
+      "details": [
+        {
+          "title": "Orientación Académica Personalizada",
+          "description": "Análisis de tu perfil académico, objetivos y área de interés. Asesoramiento sobre la elección de universidades y programas acordes a tus ambiciones."
+        },
+        {
+          "title": "Apoyo en el Proceso de Admisión",
+          "description": "Preparación de documentos: Traducción, certificación y cumplimiento de requisitos académicos. Asistencia para completar formularios y cumplir con los requisitos específicos de las universidades."
+        },
+        {
+          "title": "Servicios Post-Admisión",
+          "description": "Gestión de visas estudiantiles, asistencia para encontrar alojamiento, obtener seguro y cursos de idiomas para una integración académica y social fluida."
+        }
+      ],
+      "why_choose_us": [
+        "Experiencia reconocida: Años de experiencia apoyando a estudiantes internacionales.",
+        "Amplia red universitaria: Socios en instituciones prestigiosas de Alemania, Italia y Francia.",
+        "Soporte integral: Un servicio llave en mano desde la aplicación hasta la instalación."
+      ],
+      "cta": "Aplica Ahora"
     },
     "professional_training": {
-      "title": "Formación profesional",
-      "description": "Participa en programas especializados en Alemania en áreas como salud, ingeniería y tecnología, destacándote en el mercado laboral."
+      "title": "Capacitación Profesional",
+      "description": "Únete a programas de capacitación de clase mundial en Alemania en sectores de alta demanda como salud, ingeniería y tecnología.",
+      "details": [
+        {
+          "title": "Orientación y Selección de Capacitación",
+          "description": "Evaluación de tu perfil y habilidades. Selección de programas de capacitación acorde a tus metas y pasiones profesionales."
+        },
+        {
+          "title": "Soporte Administrativo",
+          "description": "Preparación de documentos: Traducción, legalización y certificación. Envío a escuelas profesionales y empresas asociadas. Gestión de visas: Soporte completo para obtener una visa de capacitación."
+        },
+        {
+          "title": "Servicios Complementarios para una Transición Suave",
+          "description": "Cursos de idiomas: Capacitación en alemán para alcanzar el nivel requerido (B1 o B2). Preparación cultural: Talleres para comprender el sistema educativo y laboral alemán."
+        }
+      ],
+      "why_choose_us": [
+        "Acceso a oportunidades únicas: Colaboración con empresas líderes en diversos sectores.",
+        "Soporte personalizado: Seguimiento individualizado para maximizar tu éxito.",
+        "Garantía de integración profesional: La mayoría de los participantes encuentran empleo en Alemania tras su capacitación."
+      ],
+      "cta": "Inicia Tu Capacitación Profesional"
     },
     "language_school": {
-      "title": "Escuela de idiomas",
-      "description": "Domina el alemán con cursos adaptados a tus necesidades, ya seas estudiante o profesional. Nuestros cursos intensivos B1 y B2 garantizan una preparación óptima."
+      "title": "Escuela de Idiomas",
+      "description": "Aprende y accede a nuevas oportunidades a través de nuestra escuela de idiomas. Ofrecemos cursos de alemán, inglés, italiano y español para todos los niveles.",
+      "details": [
+        {
+          "title": "Cursos de Alemán",
+          "description": "Niveles ofrecidos: A1 a B2. Opciones disponibles: Cursos intensivos para resultados rápidos o cursos extensivos adaptados a tu horario. Preparación para los exámenes Goethe, Telc, ÖSD y ECL."
+        },
+        {
+          "title": "Cursos de Inglés",
+          "description": "Niveles ofrecidos: De principiante a avanzado. Objetivos: Preparación para los exámenes TOEFL, IELTS o Cambridge. Desarrollo de habilidades para la comunicación profesional o académica."
+        },
+        {
+          "title": "Cursos de Italiano y Español",
+          "description": "Cursos para comunicación básica o avanzada, adaptados para estudios, viajes o trabajo. Familiarización con las culturas italiana y española."
+        }
+      ],
+      "why_choose_us": [
+        "Métodos de enseñanza modernos: Enfoques interactivos e inmersivos para un aprendizaje rápido y eficaz.",
+        "Profesores calificados: Nuestros instructores tienen experiencia y están especializados en la enseñanza de idiomas.",
+        "Flexibilidad: Opciones para cursos presenciales o en línea, según tus preferencias."
+      ],
+      "cta": "Inscríbete en un Curso de Idiomas"
     }
   },
-  "schedule_free_session": "Agenda una consulta gratuita",
-  "why_choose_us": "¿Por qué elegir GMG?",
-  "feature_title": "Expertos en asistencia para",
-  "feature_highlight": "estudios y carreras internacionales",
+
+  "schedule_free_session": "Agenda una Consulta Gratis",
+  "why_choose_us": "Por Qué Elegir GMG",
+  "feature_title": "Expertos en Apoyar",
+  "feature_highlight": "Educación y Carreras Internacionales",
   "features-home": {
-    "fast_process": "Proceso simplificado",
-    "dedicated_team": "Equipo experimentado",
-    "support": "Soporte continuo",
-    "description": "GMG te guía en cada paso de tu proyecto, asegurando un servicio rápido, confiable y personalizado."
+    "fast_process": "Proceso Simplificado",
+    "dedicated_team": "Equipo Experimentado",
+    "support": "Soporte Continuo",
+    "description": "GMG te guía en cada paso, asegurando un servicio rápido, confiable y personalizado."
   },
   "testimonial": {
     "subtitle": "Testimonios",
-    "title": "Descubre lo que",
-    "highlight_text": "nuestros clientes dicen",
-    "btn_text": "Leer más testimonios",
+    "title": "Descubre Qué",
+    "highlight_text": "Dicen Nuestros Clientes",
+    "btn_text": "Leer Más Testimonios",
     "data": [
       {
         "desc": "Gracias a GMG, pude continuar mis estudios en una universidad prestigiosa en Alemania. Su apoyo fue excepcional.",
@@ -61,70 +143,70 @@
         "title": "Estudiante, Berlín"
       },
       {
-        "desc": "El proceso de reclutamiento con GMG fue fluido y eficiente. Ahora trabajo como enfermero en un hospital en Alemania.",
+        "desc": "El proceso de reclutamiento con GMG fue fluido y efectivo. Ahora trabajo como enfermero en un hospital en Alemania.",
         "name": "Ahmed Khemiri",
-        "title": "Enfermero, Fráncfort"
+        "title": "Enfermero, Frankfurt"
       },
       {
-        "desc": "GMG fue un socio confiable en mi transición hacia una carrera internacional. Su apoyo constante marcó la diferencia.",
+        "desc": "GMG ha sido un socio confiable en mi transición a una carrera internacional. Su apoyo constante marcó la diferencia.",
         "name": "Noura Rahmani",
         "title": "Fisioterapeuta, Múnich"
       }
     ]
   },
   "faq": {
-    "title": "Tus preguntas, nuestras respuestas",
+    "title": "Tus Preguntas, Nuestras Respuestas",
     "question_one": {
-      "title": "¿Cómo puedo postularme a un trabajo en el sector salud?",
-      "description": "Te ayudamos a preparar tus documentos, postularte y gestionar los trámites administrativos, incluidos los visados. Contáctanos para empezar."
+      "title": "¿Cómo puedo aplicar a un trabajo en el sector salud?",
+      "description": "Te ayudamos a preparar tus documentos, aplicar y gestionar procedimientos administrativos, incluidas las visas. Contáctanos para empezar."
     },
     "question_two": {
       "title": "¿Cómo me inscribo en una universidad en Alemania?",
-      "description": "Te guiamos en la búsqueda de universidades, presentación de solicitudes y seguimiento hasta la admisión. Nuestros asesores están aquí para ayudarte."
+      "description": "Te guiamos en la investigación de universidades, envío de aplicaciones y seguimiento hasta la admisión. Nuestros asesores están aquí para asistirte."
     },
     "question_three": {
-      "title": "¿Cuáles son los requisitos para una formación profesional en Alemania?",
-      "description": "Generalmente necesitas un título reconocido y un nivel B1 o B2 en alemán. Ofrecemos cursos de idioma para ayudarte a cumplir con estos requisitos."
+      "title": "¿Cuáles son los requisitos para capacitación profesional en Alemania?",
+      "description": "Generalmente necesitas un diploma reconocido y un nivel B1 o B2 de alemán. Ofrecemos cursos de idiomas para ayudarte a cumplir estos requisitos."
     },
     "question_four": {
       "title": "¿Ofrecen cursos de alemán?",
       "description": "Sí, ofrecemos cursos para todos los niveles, adaptados a las necesidades de estudiantes y profesionales."
     },
     "question_five": {
-      "title": "¿Cómo puedo recibir ayuda con mi solicitud?",
+      "title": "¿Cómo puedo obtener ayuda con mi aplicación?",
       "description": "Nuestro equipo está disponible para responder tus preguntas. Contáctanos por correo electrónico o a través de nuestro formulario en línea."
     }
   },
   "features": {
-    "title": "Alcanza tus sueños educativos y profesionales",
+    "title": "Logra Tus Sueños Educativos y Profesionales",
     "sm_desc_1": "En GMG, abrimos puertas a oportunidades internacionales para estudiantes y profesionales.",
-    "sm_desc_2": "Nuestros servicios simplifican los trámites, permitiéndote concentrarte en tu éxito.",
-    "project_kickoff": "Inicio del proyecto",
+    "sm_desc_2": "Nuestros servicios simplifican el proceso, permitiéndote enfocarte en tu éxito.",
+    "project_kickoff": "Inicio del Proyecto",
     "project_desc": "Una estrategia clara para alcanzar tus objetivos.",
-    "ideation": "Diseño",
-    "ideation_desc": "Transforma tus ideas en resultados concretos.",
-    "design_process": "Enfoque personalizado",
-    "design_desc": "Asistencia adaptada a tus necesidades específicas.",
+    "ideation": "Ideación",
+    "ideation_desc": "Transformamos tus ideas en resultados tangibles.",
+    "design_process": "Enfoque Personalizado",
+    "design_desc": "Soporte adaptado a tus necesidades específicas.",
     "development": "Integración",
     "dev_desc": "Soporte integral para tu éxito."
   },
-  "about-page": "Sobre GMG",
+  "about-page": "Acerca de GMG",
   "services-page": "Nuestros Servicios",
   "about": {
-    "title": "Sobre GMG",
-    "video_title": "Descubre nuestra misión",
-    "right_text_1": "GMG está dedicado a conectar talentos internacionales con oportunidades educativas y laborales. Nuestro objetivo es hacer que las transiciones sean simples y accesibles.",
-    "right_text_2": "Ofrecemos apoyo personalizado en cada paso, garantizando una integración exitosa y sostenible.",
+    "title": "Acerca de GMG",
+    "video_title": "Descubre Nuestra Misión",
+    "right_text_1": "GMG se dedica a conectar talentos internacionales con oportunidades educativas y profesionales. Nuestro objetivo es hacer las transiciones simples y accesibles.",
+    "right_text_2": "Proporcionamos soporte personalizado en cada paso, asegurando una integración exitosa y sostenible.",
     "client_name": "Amine Rahmani",
     "client_title": "Profesional de Salud, Alemania",
-    "desc": "Con GMG, logré hacer una transición exitosa a Alemania. Su equipo manejó cada paso, haciendo la experiencia libre de estrés."
+    "desc": "Con GMG, pude trasladarme exitosamente a Alemania. Su equipo manejó cada paso, haciendo la experiencia libre de estrés."
   },
   "contact-page": {
-    "mail_address": "Dirección de correo",
-    "phone_number": "Número de teléfono",
+    "mail_address": "Correo Electrónico",
+    "phone_number": "Número de Teléfono",
     "address_line": "Dirección",
     "address": "Túnez, Túnez",
-    "lets_talk": "Hablemos de tu proyecto",
+    "lets_talk": "Hablemos de Tu Proyecto",
     "contact_image_alt": "Contáctanos"
   },
   "offices": {
@@ -132,11 +214,11 @@
   },
   "tunisia_office": {
     "section": "Nuestra Oficina en Túnez",
-    "heading": "Oficina GMG Túnez",
-    "description": "Nuestra oficina en Túnez es tu punto de partida para una carrera o estudios internacionales.",
+    "heading": "Oficina de GMG en Túnez",
+    "description": "Nuestra oficina en Túnez es tu punto de partida para una carrera o educación internacional.",
     "card_title": "Oficina en Túnez",
     "card_location": "Túnez, Túnez",
-    "card_hours": "Abierto de lunes a viernes, 9:00 - 18:00"
+    "card_hours": "Abierto de lunes a viernes, de 9:00 AM a 6:00 PM"
   },
   "international_offices": {
     "section": "Nuestras Oficinas Internacionales",
@@ -145,41 +227,56 @@
     "colombia": {
       "card_title": "Oficina en Colombia",
       "card_location": "Bogotá, Colombia",
-      "card_hours": "Abierto de lunes a viernes, 8:30 - 17:30"
+      "card_hours": "Abierto de lunes a viernes, de 8:30 AM a 5:30 PM"
     },
     "germany": {
       "card_title": "Oficina en Alemania",
       "card_location": "Berlín, Alemania",
-      "card_hours": "Abierto de lunes a viernes, 9:00 - 18:00"
+      "card_hours": "Abierto de lunes a viernes, de 9:00 AM a 6:00 PM"
     },
     "saudi_arabia": {
       "card_title": "Oficina en Arabia Saudita",
       "card_location": "Riad, Arabia Saudita",
-      "card_hours": "Abierto de domingo a jueves, 8:00 - 16:00"
+      "card_hours": "Abierto de domingo a jueves, de 8:00 AM a 4:00 PM"
     }
   },
   "location": "Ubicación",
   "hours": "Horario",
   "navbar": {
     "home": "Inicio",
-    "about": "Sobre nosotros",
+    "about": "Acerca de",
     "services": "Servicios",
     "offices": "Nuestras Oficinas",
     "contact": "Contacto"
   },
   "footer": {
-  "useful_links": "Enlaces Útiles",
-  "community": "Comunidad",
-  "copy_right": "© 2024 Su Empresa. Todos los derechos reservados.",
-  "conditions": ["Términos de uso", "Política de privacidad", "Centro de ayuda"],
-  "widget_lists": {
-    "useful_links": ["Contáctenos", "Cómo funciona", "Crear", "Explorar", "Términos y condiciones"],
-    "community": ["Centro de ayuda", "Socios", "Sugerencias", "Blog", "Boletines"]
-  },
-  "subscribe_title": "Suscríbete al Boletín",
-  "subscribe_text": "Regístrate en nuestro boletín para recibir actualizaciones sobre nuestros servicios.",
-  "widget_desc": "Una nueva forma de realizar pagos de manera fácil, confiable y 100% segura.",
-  "about_title": "Sobre Nosotros"
-}
-
+    "useful_links": "Enlaces Útiles",
+    "community": "Comunidad",
+    "copy_right": "© 2024 Tu Compañía. Todos los derechos reservados.",
+    "conditions": [
+      "Términos de Uso",
+      "Política de Privacidad",
+      "Centro de Ayuda"
+    ],
+    "widget_lists": {
+      "useful_links": [
+        "Contáctanos",
+        "Cómo Funciona",
+        "Crear",
+        "Explorar",
+        "Términos y Condiciones"
+      ],
+      "community": [
+        "Centro de Ayuda",
+        "Socios",
+        "Sugerencias",
+        "Blog",
+        "Boletines"
+      ]
+    },
+    "subscribe_title": "Suscríbete al Boletín",
+    "subscribe_text": "Regístrate en nuestro boletín para recibir actualizaciones sobre nuestros servicios.",
+    "widget_desc": "Una nueva forma de realizar pagos fácil, confiable y 100% segura.",
+    "about_title": "Sobre Nosotros"
+  }
 }

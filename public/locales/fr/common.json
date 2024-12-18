@@ -21,24 +21,106 @@
   "our_services": "Nos Services",
   "managing_business": "Transformez vos ambitions avec notre",
   "best_service": "expertise éprouvée",
+
   "services": {
     "recruitment": {
       "title": "Recrutement de Personnel Médical",
-      "description": "Nous connectons les professionnels de santé qualifiés de Tunisie avec des opportunités en Allemagne. De la gestion des visas à l'intégration, nous prenons en charge chaque étape pour assurer une transition fluide."
+      "description": "Une carrière internationale dans le secteur de la santé vous attend. Nous connectons les professionnels de santé à des opportunités inégalées en Allemagne et en Arabie Saoudite.",
+      "details": [
+        {
+          "title": "Placement professionnel sur mesure",
+          "description": "Collaboration avec des hôpitaux, cliniques et établissements de santé renommés pour garantir des opportunités adaptées à votre spécialisation et à vos compétences."
+        },
+        {
+          "title": "Assistance administrative complète",
+          "description": "Gestion des démarches de visa et de reconnaissance professionnelle (équivalence des diplômes). Préparation des documents requis pour une transition fluide et sans stress."
+        },
+        {
+          "title": "Intégration culturelle et professionnelle",
+          "description": "Cours de langue allemande ou anglaise (selon la destination) pour garantir votre réussite dans un environnement multiculturel. Ateliers d’intégration : familiarisation avec les pratiques culturelles et professionnelles locales."
+        }
+      ],
+      "why_choose_us": [
+        "Expertise dans le recrutement international, notamment pour le secteur de la santé.",
+        "Réseau étendu de partenaires en Allemagne et en Arabie Saoudite.",
+        "Accompagnement complet, de l’inscription au placement jusqu’à votre intégration réussie."
+      ],
+      "cta": "Postulez maintenant"
     },
     "students_placement": {
-      "title": "Accompagnement Étudiants",
-      "description": "Étudiez dans des universités renommées en Allemagne grâce à notre soutien personnalisé, couvrant la sélection des programmes, les démarches administratives et votre intégration sur place."
+      "title": "Placement des Étudiants",
+      "description": "Étudiez dans des universités de renommée internationale. Nous vous aidons à intégrer les meilleures universités en Allemagne, en Italie et en France.",
+      "details": [
+        {
+          "title": "Orientation académique personnalisée",
+          "description": "Analyse de votre profil académique, vos objectifs et votre domaine d’intérêt. Conseils pour choisir les universités et programmes qui correspondent le mieux à vos ambitions."
+        },
+        {
+          "title": "Accompagnement tout au long du processus d'admission",
+          "description": "Préparation des dossiers : Traduction, certification et mise en conformité de vos documents académiques. Assistance pour compléter les formulaires et respecter les exigences spécifiques de chaque université."
+        },
+        {
+          "title": "Services post-admission",
+          "description": "Gestion des visas étudiants, assistance pour trouver un logement, souscrire une assurance et cours de langue pour faciliter votre intégration académique et sociale."
+        }
+      ],
+      "why_choose_us": [
+        "Expertise reconnue : Des années d'expérience dans l'accompagnement des étudiants internationaux.",
+        "Réseau universitaire étendu : Collaboration avec des institutions prestigieuses en Allemagne, en Italie et en France.",
+        "Accompagnement complet : Un service clé en main, de votre candidature jusqu'à votre installation."
+      ],
+      "cta": "Postulez maintenant"
     },
     "professional_training": {
       "title": "Formations Professionnelles",
-      "description": "Participez à des formations spécialisées et professionnalisantes en Allemagne dans des domaines tels que la santé, l’ingénierie et la technologie, et démarquez-vous sur le marché du travail."
+      "description": "Rejoignez des programmes de formation de renommée mondiale en Allemagne dans des secteurs porteurs comme la santé, l’ingénierie, et la technologie.",
+      "details": [
+        {
+          "title": "Orientation et choix de la formation",
+          "description": "Évaluation de votre profil et de vos compétences. Sélection des formations adaptées à vos objectifs professionnels et à vos passions."
+        },
+        {
+          "title": "Accompagnement dans les démarches administratives",
+          "description": "Préparation des dossiers : Traduction, légalisation et certification de vos documents. Soumission aux écoles professionnelles et entreprises partenaires. Gestion des visas : Assistance complète pour l’obtention du visa de formation."
+        },
+        {
+          "title": "Services complémentaires pour une transition réussie",
+          "description": "Cours de langue : Formation en allemand pour atteindre le niveau requis (B1 ou B2). Préparation culturelle : Ateliers pour comprendre le système éducatif et le monde du travail allemand."
+        }
+      ],
+      "why_choose_us": [
+        "Accès à des opportunités uniques : Collaboration avec des entreprises leaders dans divers secteurs.",
+        "Accompagnement sur mesure : Un suivi personnalisé pour maximiser vos chances de succès.",
+        "Insertion professionnelle garantie : La majorité des participants trouvent un emploi en Allemagne à l’issue de leur formation."
+      ],
+      "cta": "Démarrez votre formation professionnelle"
     },
     "language_school": {
       "title": "École de Langues",
-      "description": "Maîtrisez l'allemand avec des cours adaptés à vos besoins, que vous soyez étudiant ou professionnel. Nos cours intensifs B1 et B2 garantissent une préparation optimale."
+      "description": "Apprenez et accédez à de nouvelles opportunités grâce à notre école de langues. Nous proposons des cours de langue allemande, anglaise, italienne et espagnole, adaptés à tous les niveaux.",
+      "details": [
+        {
+          "title": "Cours de langue allemande",
+          "description": "Niveaux proposés : A1 à B2. Options disponibles : Cours intensifs pour des résultats rapides ou cours extensifs adaptés à vos contraintes. Préparation aux examens Goethe, Telc, ÖSD et ECL."
+        },
+        {
+          "title": "Cours de langue anglaise",
+          "description": "Niveaux proposés : De débutant à avancé. Objectifs : Préparation aux tests TOEFL, IELTS ou Cambridge. Développement de compétences pour la communication professionnelle ou académique."
+        },
+        {
+          "title": "Cours de langue italienne et espagnole",
+          "description": "Cours pour la communication de base ou avancée, adaptés aux études, voyages ou travail. Familiarisation avec les cultures italienne et espagnole."
+        }
+      ],
+      "why_choose_us": [
+        "Méthodes d'enseignement modernes : Approches interactives et immersives pour un apprentissage rapide et efficace.",
+        "Enseignants qualifiés : Nos professeurs sont expérimentés et spécialisés dans l’enseignement des langues.",
+        "Flexibilité : Options de cours en présentiel ou en ligne, selon vos préférences."
+      ],
+      "cta": "Inscrivez-vous à un cours de langue"
     }
   },
+
   "schedule_free_session": "Planifiez une consultation gratuite",
   "why_choose_us": "Pourquoi choisir GMG",
   "feature_title": "Experts dans l'accompagnement pour",
@@ -171,10 +253,26 @@
     "useful_links": "Liens Utiles",
     "community": "Communauté",
     "copy_right": "© 2024 Votre Entreprise. Tous droits réservés.",
-    "conditions": ["Conditions d'utilisation", "Politique de confidentialité", "Centre d'aide"],
+    "conditions": [
+      "Conditions d'utilisation",
+      "Politique de confidentialité",
+      "Centre d'aide"
+    ],
     "widget_lists": {
-      "useful_links": ["Contactez-nous", "Comment ça marche", "Créer", "Explorer", "Conditions générales"],
-      "community": ["Centre d'aide", "Partenaires", "Suggestions", "Blog", "Newsletters"]
+      "useful_links": [
+        "Contactez-nous",
+        "Comment ça marche",
+        "Créer",
+        "Explorer",
+        "Conditions générales"
+      ],
+      "community": [
+        "Centre d'aide",
+        "Partenaires",
+        "Suggestions",
+        "Blog",
+        "Newsletters"
+      ]
     },
     "subscribe_title": "Abonnez-vous à la Newsletter",
     "subscribe_text": "Inscrivez-vous à notre newsletter pour recevoir des mises à jour sur nos services.",
