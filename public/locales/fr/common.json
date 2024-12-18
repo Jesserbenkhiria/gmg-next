@@ -278,5 +278,25 @@
     "subscribe_text": "Inscrivez-vous à notre newsletter pour recevoir des mises à jour sur nos services.",
     "widget_desc": "Une nouvelle façon de rendre les paiements faciles, fiables et 100% sécurisés.",
     "about_title": "À Propos de Nous"
+  },
+  "form": {
+    "name_placeholder": "Entrez votre nom",
+    "email_placeholder": "Entrez votre email",
+    "phone_placeholder": "Entrez votre numéro de téléphone",
+    "service_placeholder": "Sélectionnez un service",
+    "service_medical": "Recrutement de Personnel Médical",
+    "service_students": "Placement des Étudiants",
+    "service_training": "Formations Professionnelles",
+    "service_languages": "École de Langues",
+    "message_placeholder": "Entrez votre message",
+    "submit": "Envoyer le message",
+    "sending": "Envoi...",
+    "success_message": "votre message a été envoyé avec succès !",
+    "error_message": "Échec de l'envoi de votre message. Veuillez réessayer."
+  },
+  "breadcrumb": {
+    "lets_work": "Travaillons ensemble",
+    "back_home": "Retour à l'accueil",
+    "shape_alt": "Forme de la navigation"
   }
 }

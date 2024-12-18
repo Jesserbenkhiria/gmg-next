@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "next-i18next";
+import Link from "next/link";
 
 const ServiceDetailsArea = ({ service }) => {
   const { t } = useTranslation("common");
@@ -18,13 +19,12 @@ const ServiceDetailsArea = ({ service }) => {
       <div className="service-details-area" style={{ padding: "2rem 0" }}>
         <div className="container">
           {/* Title and Description */}
-          <div className="row service-pt-pb">
+          <div className="row service-pt-pb" style={{ paddingBottom: "0px" }}>
             <div className="col-xl-6 col-lg-6">
               <div className="sd-service-details">
                 <h3 className="tp-title-sm service-details-space">
                   {t(`services.${service.title}.title`)}
                 </h3>
-                <a href="#">{t("schedule_free_session")}</a>
               </div>
             </div>
             <div className="col-xl-6 col-lg-6">
@@ -53,7 +53,7 @@ const ServiceDetailsArea = ({ service }) => {
                       borderRadius: "8px",
                     }}
                   >
-                    <h4 style={{fontWeight:"bold"}} >{detail.title}</h4>
+                    <h4 style={{ fontWeight: "bold" }}>{detail.title}</h4>
                     <p>{detail.description}</p>
                   </div>
                 ))}
@@ -65,7 +65,7 @@ const ServiceDetailsArea = ({ service }) => {
           {whyChooseUs && (
             <div className="row mt-4">
               <div className="col-12">
-                <h4 style={{fontWeight:"bold"}}>{t("why_choose_us")}</h4>
+                <h4 style={{ fontWeight: "bold" }}>{t("why_choose_us")}</h4>
                 <ul
                   style={{
                     display: "flex",
@@ -86,31 +86,33 @@ const ServiceDetailsArea = ({ service }) => {
 
           {/* Call-to-Action Button */}
           <div className="row mt-4">
-            <div
-              className="tp-hero-paly-button-four"
-              style={{
-                display: "flex",
-                justifyContent: "center",
-                marginTop: "2rem",
-              }}
-            >
-              <button
-                className="popup-video"
+            <Link href="/contact">
+              <div
+                className="tp-hero-paly-button-four"
                 style={{
-                  backgroundColor: "#F8B133",
-                  color: "#fff",
-                  padding: "1rem 2rem",
-                  borderRadius: "25px",
-                  border: "none",
-                  fontSize: "1rem",
-                  fontWeight: "bold",
-                  cursor: "pointer",
-                  transition: "all 0.3s ease",
+                  display: "flex",
+                  justifyContent: "center",
+                  marginTop: "2rem",
                 }}
               >
-                <span>{cta}</span>
-              </button>
-            </div>
+                <button
+                  className="popup-video"
+                  style={{
+                    backgroundColor: "#F8B133",
+                    color: "#fff",
+                    padding: "1rem 2rem",
+                    borderRadius: "25px",
+                    border: "none",
+                    fontSize: "1rem",
+                    fontWeight: "bold",
+                    cursor: "pointer",
+                    transition: "all 0.3s ease",
+                  }}
+                >
+                  <span>{cta}</span>
+                </button>
+              </div>
+            </Link>
           </div>
         </div>
       </div>
