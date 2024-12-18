@@ -3,18 +3,22 @@ import { useRouter } from "next/router";
 
 const Languages = () => {
   const router = useRouter();
-  const { locale, locales, asPath } = router;
+  const { locale, locales = [], asPath } = router;
 
-  const switchLanguage = (lang) => {
-    router.push(asPath, asPath, { locale: lang });
+  const switchLanguage = async (lang) => {
+    try {
+      await router.push(asPath, asPath, { locale: lang });
+    } catch (error) {
+      console.error("Failed to switch language:", error);
+    }
   };
 
   // Define flag images or icons for each language
   const flags = {
-    en: "assets/img/flags/uk.png", // Replace with the path to your English flag image
-    fr: "assets/img/flags/fr.png", // Replace with the path to your French flag image
-    de: "assets/img/flags/de.png", // Replace with the path to your German flag image
-    es: "assets/img/flags/es.png", // Replace with the path to your Spanish flag image
+    en: "/assets/img/logo/uk.png",
+    fr: "/assets/img/logo/fr.png",
+    de: "/assets/img/logo/de.png",
+    es: "/assets/img/logo/es.png",
   };
 
   return (
