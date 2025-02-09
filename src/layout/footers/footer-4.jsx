@@ -62,7 +62,9 @@ const FooterFour = () => {
                   </div>
                   <div className="tp-footer-widget__list">
                     <ul>
-                      {widget_lists.map((l, i) => <li key={i}><a href="#">{l}</a></li>)}
+                      {Array.isArray(w.widget_lists) ? w.widget_lists.map(item => (
+                        <div key={item.id}>{item.name}</div>
+                      )) : null}
                     </ul>
                   </div>
                 </div>
